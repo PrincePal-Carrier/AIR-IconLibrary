@@ -1,0 +1,6161 @@
+[
+  {
+    "name": "clear",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "cancel",
+      "clear",
+      "delete",
+      "exit",
+      "x",
+      "close"
+    ],
+    "outlined": "/icons/outlined/action/clear.svg",
+    "filled": "/icons/filled/action/clear.svg"
+  },
+  {
+    "name": "check",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "check",
+      "confirm",
+      "correct",
+      "done",
+      "yes"
+    ],
+    "outlined": "/icons/outlined/action/check.svg",
+    "filled": "/icons/filled/action/check.svg"
+  },
+  {
+    "name": "check_circle",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "approve",
+      "complete",
+      "done",
+      "validate",
+      "verified",
+      "yes"
+    ],
+    "outlined": "/icons/outlined/action/check_circle.svg",
+    "filled": "/icons/filled/action/check_circle.svg"
+  },
+  {
+    "name": "visibility",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "eye",
+      "on",
+      "reveal",
+      "see",
+      "show",
+      "view",
+      "visibility"
+    ],
+    "outlined": "/icons/outlined/action/visibility.svg",
+    "filled": "/icons/filled/action/visibility.svg"
+  },
+  {
+    "name": "visibility_off",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "disabled",
+      "eye",
+      "off",
+      "hide",
+      "hidden"
+    ],
+    "outlined": "/icons/outlined/action/visibility_off.svg",
+    "filled": "/icons/filled/action/visibility_off.svg"
+  },
+  {
+    "name": "add_location_alt",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "+",
+      "add",
+      "destination",
+      "location",
+      "maps",
+      "pin",
+      "place"
+    ],
+    "outlined": "/icons/outlined/action/add_location_alt.svg",
+    "filled": "/icons/filled/action/add_location_alt.svg"
+  },
+  {
+    "name": "search",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "filter",
+      "find",
+      "glass",
+      "look",
+      "magnify"
+    ],
+    "outlined": "/icons/outlined/action/search.svg",
+    "filled": "/icons/filled/action/search.svg"
+  },
+  {
+    "name": "search_clear",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "magnify",
+      "search",
+      "clear",
+      "cancel"
+    ],
+    "outlined": "/icons/outlined/action/search_clear.svg",
+    "filled": "/icons/filled/action/search_clear.svg"
+  },
+  {
+    "name": "bookmark",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "archive",
+      "bookmark",
+      "favorite",
+      "ribbon",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/bookmark.svg",
+    "filled": "/icons/filled/action/bookmark.svg"
+  },
+  {
+    "name": "email",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "mail",
+      "message",
+      "envelope",
+      "letter",
+      "send"
+    ],
+    "outlined": "/icons/outlined/action/email.svg",
+    "filled": "/icons/filled/action/email.svg"
+  },
+  {
+    "name": "add",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "+",
+      "add",
+      "new symbol",
+      "plus",
+      "symbol"
+    ],
+    "outlined": "/icons/outlined/action/add.svg",
+    "filled": "/icons/filled/action/add.svg"
+  },
+  {
+    "name": "remove",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "delete",
+      "minus",
+      "negative",
+      "remove",
+      "subtract"
+    ],
+    "outlined": "/icons/outlined/action/remove.svg",
+    "filled": "/icons/filled/action/remove.svg"
+  },
+  {
+    "name": "tune",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "settings",
+      "sliders",
+      "adjust",
+      "controls",
+      "filter"
+    ],
+    "outlined": "/icons/outlined/action/tune.svg",
+    "filled": "/icons/filled/action/tune.svg"
+  },
+  {
+    "name": "download",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrow",
+      "down",
+      "drive",
+      "export",
+      "file",
+      "install",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/download.svg",
+    "filled": "/icons/filled/action/download.svg"
+  },
+  {
+    "name": "upload",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrow",
+      "drive",
+      "import file",
+      "install"
+    ],
+    "outlined": "/icons/outlined/action/upload.svg",
+    "filled": "/icons/filled/action/upload.svg"
+  },
+  {
+    "name": "settings",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "application",
+      "details",
+      "gear",
+      "info",
+      "options"
+    ],
+    "outlined": "/icons/outlined/action/settings.svg",
+    "filled": "/icons/filled/action/settings.svg"
+  },
+  {
+    "name": "swap_horiz",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "back",
+      "forward",
+      "horizontal",
+      "swap"
+    ],
+    "outlined": "/icons/outlined/action/swap_horiz.svg",
+    "filled": "/icons/filled/action/swap_horiz.svg"
+  },
+  {
+    "name": "swap_vert",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrow",
+      "direction",
+      "down",
+      "navigation",
+      "swap",
+      "up",
+      "vert",
+      "vertical"
+    ],
+    "outlined": "/icons/outlined/action/swap_vert.svg",
+    "filled": "/icons/filled/action/swap_vert.svg"
+  },
+  {
+    "name": "sync",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "360",
+      "around",
+      "arrow",
+      "in progress",
+      "loading",
+      "refresh",
+      "rotate",
+      "turn"
+    ],
+    "outlined": "/icons/outlined/action/sync.svg",
+    "filled": "/icons/filled/action/sync.svg"
+  },
+  {
+    "name": "refresh_caution",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "360",
+      "around",
+      "arrow",
+      "in progress",
+      "loading",
+      "rotate",
+      "sync",
+      "connection interrupted",
+      "unsyched"
+    ],
+    "outlined": "/icons/outlined/action/refresh_caution.svg",
+    "filled": "/icons/filled/action/refresh_caution.svg"
+  },
+  {
+    "name": "add_link",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "add",
+      "attach",
+      "clip",
+      "link",
+      "plus"
+    ],
+    "outlined": "/icons/outlined/action/add_link.svg",
+    "filled": "/icons/filled/action/add_link.svg"
+  },
+  {
+    "name": "link",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "chain",
+      "clip",
+      "connection",
+      "link",
+      "url"
+    ],
+    "outlined": "/icons/outlined/action/link.svg",
+    "filled": "/icons/filled/action/link.svg"
+  },
+  {
+    "name": "link_off",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "attached",
+      "chain",
+      "clip",
+      "connection",
+      "disabled",
+      "link",
+      "off",
+      "slash",
+      "url"
+    ],
+    "outlined": "/icons/outlined/action/link_off.svg",
+    "filled": "/icons/filled/action/link_off.svg"
+  },
+  {
+    "name": "filter_list",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "alt",
+      "edit",
+      "filter",
+      "funnel",
+      "options",
+      "refine"
+    ],
+    "outlined": "/icons/outlined/action/filter_list.svg",
+    "filled": "/icons/filled/action/filter_list.svg"
+  },
+  {
+    "name": "filter_list_off",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "filter",
+      "list",
+      "off",
+      "options",
+      "refine"
+    ],
+    "outlined": "/icons/outlined/action/filter_list_off.svg",
+    "filled": "/icons/filled/action/filter_list_off.svg"
+  },
+  {
+    "name": "sort",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "filter",
+      "find",
+      "lines",
+      "list",
+      "organize",
+      "sort"
+    ],
+    "outlined": "/icons/outlined/action/sort.svg",
+    "filled": "/icons/filled/action/sort.svg"
+  },
+  {
+    "name": "delete",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bin",
+      "can",
+      "delete",
+      "garbage",
+      "remove",
+      "trash"
+    ],
+    "outlined": "/icons/outlined/action/delete.svg",
+    "filled": "/icons/filled/action/delete.svg"
+  },
+  {
+    "name": "block",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "avoid",
+      "block",
+      "cancel",
+      "close",
+      "exit",
+      "no",
+      "prohibited",
+      "quit",
+      "stop"
+    ],
+    "outlined": "/icons/outlined/action/block.svg",
+    "filled": "/icons/filled/action/block.svg"
+  },
+  {
+    "name": "rate",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bookmark",
+      "favorite",
+      "ranking",
+      "rate",
+      "rating",
+      "save",
+      "star"
+    ],
+    "outlined": "/icons/outlined/action/rate.svg",
+    "filled": "/icons/filled/action/rate.svg"
+  },
+  {
+    "name": "mode_edit",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "compose",
+      "create",
+      "draft",
+      "draw",
+      "edit",
+      "pen",
+      "pencil",
+      "write"
+    ],
+    "outlined": "/icons/outlined/action/mode_edit.svg",
+    "filled": "/icons/filled/action/mode_edit.svg"
+  },
+  {
+    "name": "more_horizontal",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "3 dot",
+      "menu",
+      "screen",
+      "site",
+      "three",
+      "overflow"
+    ],
+    "outlined": "/icons/outlined/action/more_horizontal.svg",
+    "filled": "/icons/filled/action/more_horizontal.svg"
+  },
+  {
+    "name": "more_vertical",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "3 dot",
+      "menu",
+      "screen",
+      "site",
+      "three",
+      "overflow",
+      "kebab"
+    ],
+    "outlined": "/icons/outlined/action/more_vertical.svg",
+    "filled": "/icons/filled/action/more_vertical.svg"
+  },
+  {
+    "name": "unmute",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "audio",
+      "control",
+      "music",
+      "mute",
+      "sound",
+      "speaker",
+      "volume"
+    ],
+    "outlined": "/icons/outlined/action/unmute.svg",
+    "filled": "/icons/filled/action/unmute.svg"
+  },
+  {
+    "name": "unmute_alternate",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "audio",
+      "control",
+      "music",
+      "mute",
+      "sound",
+      "speaker",
+      "tv",
+      "volume"
+    ],
+    "outlined": "/icons/outlined/action/unmute_alternate.svg",
+    "filled": "/icons/filled/action/unmute_alternate.svg"
+  },
+  {
+    "name": "low_volume",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "audio",
+      "control",
+      "music",
+      "mute",
+      "sound",
+      "speaker",
+      "quiet"
+    ],
+    "outlined": "/icons/outlined/action/low_volume.svg",
+    "filled": "/icons/filled/action/low_volume.svg"
+  },
+  {
+    "name": "keyboard_voice",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "mic",
+      "microphone",
+      "record",
+      "voice"
+    ],
+    "outlined": "/icons/outlined/action/keyboard_voice.svg",
+    "filled": "/icons/filled/action/keyboard_voice.svg"
+  },
+  {
+    "name": "help",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "?",
+      "assistance",
+      "circle",
+      "help",
+      "info",
+      "question mark",
+      "support"
+    ],
+    "outlined": "/icons/outlined/action/help.svg",
+    "filled": "/icons/filled/action/help.svg"
+  },
+  {
+    "name": "drag_handle",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrange",
+      "layout",
+      "menu",
+      "move",
+      "order",
+      "shift"
+    ],
+    "outlined": "/icons/outlined/action/drag_handle.svg",
+    "filled": "/icons/filled/action/drag_handle.svg"
+  },
+  {
+    "name": "drag_handle_vertical",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrange",
+      "layout",
+      "menu",
+      "move",
+      "order",
+      "shift"
+    ],
+    "outlined": "/icons/outlined/action/drag_handle_vertical.svg",
+    "filled": "/icons/filled/action/drag_handle_vertical.svg"
+  },
+  {
+    "name": "drag_indicator",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "dots",
+      "drop",
+      "indicator",
+      "move",
+      "shift",
+      "grab"
+    ],
+    "outlined": "/icons/outlined/action/drag_indicator.svg",
+    "filled": "/icons/filled/action/drag_indicator.svg"
+  },
+  {
+    "name": "x_circle",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "cancel",
+      "close",
+      "exit",
+      "no",
+      "off",
+      "quit",
+      "remove",
+      "stop",
+      "x"
+    ],
+    "outlined": "/icons/outlined/action/x_circle.svg",
+    "filled": "/icons/filled/action/x_circle.svg"
+  },
+  {
+    "name": "edit_square",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "compose",
+      "create",
+      "draft",
+      "draw",
+      "edit",
+      "pen",
+      "pencil",
+      "write"
+    ],
+    "outlined": "/icons/outlined/action/edit_square.svg",
+    "filled": "/icons/filled/action/edit_square.svg"
+  },
+  {
+    "name": "show_hide_row_item",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "visibility",
+      "toggle",
+      "expand",
+      "collapse"
+    ],
+    "outlined": "/icons/outlined/action/show_hide_row_item.svg",
+    "filled": "/icons/filled/action/show_hide_row_item.svg"
+  },
+  {
+    "name": "print",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "draft",
+      "fax",
+      "ink",
+      "office"
+    ],
+    "outlined": "/icons/outlined/action/print.svg",
+    "filled": "/icons/filled/action/print.svg"
+  },
+  {
+    "name": "chat",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bubble",
+      "comment",
+      "communicate",
+      "feedback",
+      "message",
+      "speech"
+    ],
+    "outlined": "/icons/outlined/action/chat.svg",
+    "filled": "/icons/filled/action/chat.svg"
+  },
+  {
+    "name": "pin",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "location",
+      "marker",
+      "pin",
+      "place",
+      "push",
+      "remember",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/pin.svg",
+    "filled": "/icons/filled/action/pin.svg"
+  },
+  {
+    "name": "unpin",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "location",
+      "marker",
+      "pin",
+      "place",
+      "push",
+      "remember",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/unpin.svg",
+    "filled": "/icons/filled/action/unpin.svg"
+  },
+  {
+    "name": "pin_left",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "location",
+      "marker",
+      "pin",
+      "place",
+      "push",
+      "remember",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/pin_left.svg",
+    "filled": "/icons/filled/action/pin_left.svg"
+  },
+  {
+    "name": "unpin_left",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "location",
+      "marker",
+      "pin",
+      "place",
+      "push",
+      "remember",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/unpin_left.svg",
+    "filled": "/icons/filled/action/unpin_left.svg"
+  },
+  {
+    "name": "send",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "mail",
+      "email",
+      "plane",
+      "message",
+      "delivery",
+      "submit"
+    ],
+    "outlined": "/icons/outlined/action/send.svg",
+    "filled": "/icons/filled/action/send.svg"
+  },
+  {
+    "name": "tag",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bill",
+      "cart",
+      "pay",
+      "price",
+      "sell"
+    ],
+    "outlined": "/icons/outlined/action/tag.svg",
+    "filled": "/icons/filled/action/tag.svg"
+  },
+  {
+    "name": "login",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "access",
+      "application",
+      "arrow",
+      "enter",
+      "sign in"
+    ],
+    "outlined": "/icons/outlined/action/login.svg",
+    "filled": "/icons/filled/action/login.svg"
+  },
+  {
+    "name": "logout",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "access",
+      "application",
+      "arrow",
+      "exit",
+      "sign out"
+    ],
+    "outlined": "/icons/outlined/action/logout.svg",
+    "filled": "/icons/filled/action/logout.svg"
+  },
+  {
+    "name": "lock",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "password",
+      "privacy",
+      "private",
+      "protection",
+      "safety",
+      "secure"
+    ],
+    "outlined": "/icons/outlined/action/lock.svg",
+    "filled": "/icons/filled/action/lock.svg"
+  },
+  {
+    "name": "unlock",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "password",
+      "privacy",
+      "private",
+      "protection",
+      "safety",
+      "secure"
+    ],
+    "outlined": "/icons/outlined/action/unlock.svg",
+    "filled": "/icons/filled/action/unlock.svg"
+  },
+  {
+    "name": "lock_reset",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "password",
+      "privacy",
+      "private",
+      "protection",
+      "safety",
+      "secure"
+    ],
+    "outlined": "/icons/outlined/action/lock_reset.svg",
+    "filled": "/icons/filled/action/lock_reset.svg"
+  },
+  {
+    "name": "scan",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "data",
+      "document",
+      "qr code",
+      "barcode",
+      "camera"
+    ],
+    "outlined": "/icons/outlined/action/scan.svg",
+    "filled": "/icons/filled/action/scan.svg"
+  },
+  {
+    "name": "external_link",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "website",
+      "url",
+      "redirect"
+    ],
+    "outlined": "/icons/outlined/action/external_link.svg",
+    "filled": "/icons/filled/action/external_link.svg"
+  },
+  {
+    "name": "external_link_alt",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "website",
+      "url",
+      "redirect"
+    ],
+    "outlined": "/icons/outlined/action/external_link_alt.svg",
+    "filled": "/icons/filled/action/external_link_alt.svg"
+  },
+  {
+    "name": "remove_circle",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "block",
+      "minus",
+      "negative",
+      "remove",
+      "substract"
+    ],
+    "outlined": "/icons/outlined/action/remove_circle.svg",
+    "filled": "/icons/filled/action/remove_circle.svg"
+  },
+  {
+    "name": "copy",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "content",
+      "document",
+      "file",
+      "page",
+      "paper",
+      "paste"
+    ],
+    "outlined": "/icons/outlined/action/copy.svg",
+    "filled": "/icons/filled/action/copy.svg"
+  },
+  {
+    "name": "file_upload",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "arrow",
+      "drive",
+      "import",
+      "install",
+      "document",
+      "page"
+    ],
+    "outlined": "/icons/outlined/action/file_upload.svg",
+    "filled": "/icons/filled/action/file_upload.svg"
+  },
+  {
+    "name": "prompt",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "AI",
+      "chat",
+      "message",
+      "conversation",
+      "input",
+      "send"
+    ],
+    "outlined": "/icons/outlined/action/prompt.svg",
+    "filled": "/icons/filled/action/prompt.svg"
+  },
+  {
+    "name": "wand",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "magic",
+      "spell",
+      "shine",
+      "stars",
+      "glow",
+      "enhance",
+      "effect",
+      "sparkle"
+    ],
+    "outlined": "/icons/outlined/action/wand.svg",
+    "filled": "/icons/filled/action/wand.svg"
+  },
+  {
+    "name": "save",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "data",
+      "disk",
+      "drive",
+      "file",
+      "save",
+      "storage"
+    ],
+    "outlined": "/icons/outlined/action/save.svg",
+    "filled": "/icons/filled/action/save.svg"
+  },
+  {
+    "name": "refresh",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "sync",
+      "reload",
+      "update"
+    ],
+    "outlined": "/icons/outlined/action/refresh.svg",
+    "filled": "/icons/filled/action/refresh.svg"
+  },
+  {
+    "name": "thumbs_up",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "favorite",
+      "gesture",
+      "hand",
+      "like",
+      "rank",
+      "rate",
+      "approve"
+    ],
+    "outlined": "/icons/outlined/action/thumbs_up.svg",
+    "filled": "/icons/filled/action/thumbs_up.svg"
+  },
+  {
+    "name": "thumbs_down",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "dislike",
+      "favorite",
+      "gesture",
+      "hand",
+      "dislike",
+      "rank",
+      "rating",
+      "disapprove"
+    ],
+    "outlined": "/icons/outlined/action/thumbs_down.svg",
+    "filled": "/icons/filled/action/thumbs_down.svg"
+  },
+  {
+    "name": "briefcase",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bag",
+      "baggage",
+      "briefcase",
+      "business",
+      "case",
+      "job",
+      "suitcase",
+      "work"
+    ],
+    "outlined": "/icons/outlined/action/briefcase.svg",
+    "filled": "/icons/filled/action/briefcase.svg"
+  },
+  {
+    "name": "suitcase",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "bag",
+      "baggage",
+      "briefcase",
+      "business",
+      "case",
+      "job",
+      "work"
+    ],
+    "outlined": "/icons/outlined/action/suitcase.svg",
+    "filled": "/icons/filled/action/suitcase.svg"
+  },
+  {
+    "name": "export_data",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "download",
+      "server",
+      "transfer",
+      "sync",
+      "file"
+    ],
+    "outlined": "/icons/outlined/action/export_data.svg",
+    "filled": "/icons/filled/action/export_data.svg"
+  },
+  {
+    "name": "done_all",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "approve",
+      "check",
+      "complete",
+      "done",
+      "ok",
+      "select",
+      "verified",
+      "yes",
+      "read"
+    ],
+    "outlined": "/icons/outlined/action/done_all.svg",
+    "filled": "/icons/filled/action/done_all.svg"
+  },
+  {
+    "name": "share",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "connect",
+      "link",
+      "network",
+      "social"
+    ],
+    "outlined": "/icons/outlined/action/share.svg",
+    "filled": "/icons/filled/action/share.svg"
+  },
+  {
+    "name": "heart",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "favorite",
+      "like",
+      "love",
+      "outline",
+      "save"
+    ],
+    "outlined": "/icons/outlined/action/heart.svg",
+    "filled": "/icons/filled/action/heart.svg"
+  },
+  {
+    "name": "power_settings_new",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "off",
+      "on",
+      "power",
+      "save",
+      "settings",
+      "shutdown"
+    ],
+    "outlined": "/icons/outlined/action/power_settings_new.svg",
+    "filled": "/icons/filled/action/power_settings_new.svg"
+  },
+  {
+    "name": "power_off",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "off",
+      "on",
+      "power",
+      "save",
+      "settings",
+      "shutdown"
+    ],
+    "outlined": "/icons/outlined/action/power_off.svg",
+    "filled": "/icons/filled/action/power_off.svg"
+  },
+  {
+    "name": "attachment",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "attach",
+      "attachment",
+      "clip",
+      "compose",
+      "file",
+      "image",
+      "link"
+    ],
+    "outlined": "/icons/outlined/action/attachment.svg",
+    "filled": "/icons/filled/action/attachment.svg"
+  },
+  {
+    "name": "quick_selection",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "app",
+      "command",
+      "finger",
+      "gesture",
+      "hand",
+      "press",
+      "tap",
+      "touch"
+    ],
+    "outlined": "/icons/outlined/action/quick_selection.svg",
+    "filled": "/icons/filled/action/quick_selection.svg"
+  },
+  {
+    "name": "null",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "none",
+      "empty",
+      "no data",
+      "off",
+      "disabled",
+      "void",
+      "inactive"
+    ],
+    "outlined": "/icons/outlined/action/null.svg",
+    "filled": "/icons/filled/action/null.svg"
+  },
+  {
+    "name": "analysis",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "analytics",
+      "insights",
+      "data",
+      "processing",
+      "evaluation",
+      "metrics",
+      "reporting"
+    ],
+    "outlined": "/icons/outlined/action/analysis.svg",
+    "filled": "/icons/filled/action/analysis.svg"
+  },
+  {
+    "name": "run_configure",
+    "category": "Action",
+    "categorySlug": "action",
+    "aliases": [
+      "execute",
+      "manage",
+      "play"
+    ],
+    "outlined": "/icons/outlined/action/run_configure.svg",
+    "filled": "/icons/filled/action/run_configure.svg"
+  },
+  {
+    "name": "air_logo",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "air",
+      "logo",
+      "carrier"
+    ],
+    "outlined": "/icons/outlined/air/air_logo.svg",
+    "filled": "/icons/filled/air/air_logo.svg"
+  },
+  {
+    "name": "placeholder",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "figma",
+      "icon",
+      "swap",
+      "instance"
+    ],
+    "outlined": "/icons/outlined/air/placeholder.svg",
+    "filled": "/icons/filled/air/placeholder.svg"
+  },
+  {
+    "name": "figma_variants",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "figma",
+      "icon"
+    ],
+    "outlined": "/icons/outlined/air/figma_variants.svg",
+    "filled": "/icons/filled/air/figma_variants.svg"
+  },
+  {
+    "name": "figma_instance",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "figma",
+      "icon",
+      "swap",
+      "instance"
+    ],
+    "outlined": "/icons/outlined/air/figma_instance.svg",
+    "filled": "/icons/filled/air/figma_instance.svg"
+  },
+  {
+    "name": "page_template",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "air",
+      "pattern",
+      "component"
+    ],
+    "outlined": "/icons/outlined/air/page_template.svg",
+    "filled": "/icons/filled/air/page_template.svg"
+  },
+  {
+    "name": "color_palatte",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "art",
+      "color",
+      "colors",
+      "paint",
+      "palette"
+    ],
+    "outlined": "/icons/outlined/air/color_palatte.svg",
+    "filled": "/icons/filled/air/color_palatte.svg"
+  },
+  {
+    "name": "figma",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "design",
+      "ui",
+      "ux",
+      "prototype",
+      "air",
+      "tooling"
+    ],
+    "outlined": "/icons/outlined/air/figma.svg",
+    "filled": "/icons/filled/air/figma.svg"
+  },
+  {
+    "name": "supernova",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "design",
+      "ui",
+      "ux",
+      "guidance",
+      "documentation air"
+    ],
+    "outlined": "/icons/outlined/air/supernova.svg",
+    "filled": "/icons/filled/air/supernova.svg"
+  },
+  {
+    "name": "storybook",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "code",
+      "react",
+      "documentation",
+      "engineering"
+    ],
+    "outlined": "/icons/outlined/air/storybook.svg",
+    "filled": "/icons/filled/air/storybook.svg"
+  },
+  {
+    "name": "variable",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "token",
+      "style",
+      "figma",
+      "color",
+      "elevation",
+      "typography"
+    ],
+    "outlined": "/icons/outlined/air/variable.svg",
+    "filled": "/icons/filled/air/variable.svg"
+  },
+  {
+    "name": "jira",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "project",
+      "tracking",
+      "plan",
+      "tickets",
+      "documentation",
+      "development",
+      "engineering"
+    ],
+    "outlined": "/icons/outlined/air/jira.svg",
+    "filled": "/icons/filled/air/jira.svg"
+  },
+  {
+    "name": "confluence",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "collaboration",
+      "team",
+      "documentation",
+      "project"
+    ],
+    "outlined": "/icons/outlined/air/confluence.svg",
+    "filled": "/icons/filled/air/confluence.svg"
+  },
+  {
+    "name": "airtable",
+    "category": "Air",
+    "categorySlug": "air",
+    "aliases": [
+      "data",
+      "workflow",
+      "table",
+      "excel"
+    ],
+    "outlined": "/icons/outlined/air/airtable.svg",
+    "filled": "/icons/filled/air/airtable.svg"
+  },
+  {
+    "name": "vehicle",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "automobile",
+      "car",
+      "cars",
+      "direction",
+      "directions",
+      "maps",
+      "public",
+      "transportation"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/vehicle.svg",
+    "filled": "/icons/filled/assets-and-devices/vehicle.svg"
+  },
+  {
+    "name": "vehicle_moving",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "automobile",
+      "car",
+      "cars",
+      "direction",
+      "directions",
+      "maps",
+      "public",
+      "transportation"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/vehicle_moving.svg",
+    "filled": "/icons/filled/assets-and-devices/vehicle_moving.svg"
+  },
+  {
+    "name": "route",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "directions",
+      "maps",
+      "path",
+      "route",
+      "sign",
+      "traffic"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/route.svg",
+    "filled": "/icons/filled/assets-and-devices/route.svg"
+  },
+  {
+    "name": "station_charging",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "ev",
+      "charging",
+      "electric vehicle",
+      "plug",
+      "power",
+      "fleet"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/station_charging.svg",
+    "filled": "/icons/filled/assets-and-devices/station_charging.svg"
+  },
+  {
+    "name": "station_fueling",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "fuel",
+      "gas pump",
+      "refuel",
+      "diesel",
+      "vehicle"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/station_fueling.svg",
+    "filled": "/icons/filled/assets-and-devices/station_fueling.svg"
+  },
+  {
+    "name": "station_fueling_warning",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "low fuel",
+      "alert",
+      "gas pump",
+      "hazard",
+      "refuel"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/station_fueling_warning.svg",
+    "filled": "/icons/filled/assets-and-devices/station_fueling_warning.svg"
+  },
+  {
+    "name": "leaf",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "eco",
+      "sustainability",
+      "energy saving",
+      "green",
+      "environment",
+      "efficiency"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/leaf.svg",
+    "filled": "/icons/filled/assets-and-devices/leaf.svg"
+  },
+  {
+    "name": "meter_low",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "low level",
+      "alert",
+      "gauge",
+      "utility meter",
+      "consumption",
+      "threshold"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/meter_low.svg",
+    "filled": "/icons/filled/assets-and-devices/meter_low.svg"
+  },
+  {
+    "name": "site",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "building",
+      "facility",
+      "location",
+      "plant",
+      "campus",
+      "property"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/site.svg",
+    "filled": "/icons/filled/assets-and-devices/site.svg"
+  },
+  {
+    "name": "genset",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "engine",
+      "electrical",
+      "generator",
+      "power",
+      "backup",
+      "portable"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/genset.svg",
+    "filled": "/icons/filled/assets-and-devices/genset.svg"
+  },
+  {
+    "name": "chiller",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "chiller",
+      "basic chiller(?)",
+      "19 series",
+      "23 series",
+      "30 series",
+      "(?)"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/chiller.svg",
+    "filled": "/icons/filled/assets-and-devices/chiller.svg"
+  },
+  {
+    "name": "chiller_unuted",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "unmute chiller",
+      "chiller unmuted",
+      "unmuted chiller"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/chiller_unuted.svg",
+    "filled": "/icons/filled/assets-and-devices/chiller_unuted.svg"
+  },
+  {
+    "name": "chiller_muted",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "mute chiller",
+      "muted chiller",
+      "chiller mute"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/chiller_muted.svg",
+    "filled": "/icons/filled/assets-and-devices/chiller_muted.svg"
+  },
+  {
+    "name": "chiller_uc",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "UC",
+      "unit controller",
+      "CJC",
+      "Chiller - UC"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/chiller_uc.svg",
+    "filled": "/icons/filled/assets-and-devices/chiller_uc.svg"
+  },
+  {
+    "name": "smart_save",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "thermostat",
+      "bolt",
+      "energy",
+      "reward"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/smart_save.svg",
+    "filled": "/icons/filled/assets-and-devices/smart_save.svg"
+  },
+  {
+    "name": "installer",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "setup",
+      "configuration",
+      "technician",
+      "repair",
+      "maintenance",
+      "smart-home"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/installer.svg",
+    "filled": "/icons/filled/assets-and-devices/installer.svg"
+  },
+  {
+    "name": "clean_display",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "mobile",
+      "device",
+      "sparkle",
+      "screen"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/clean_display.svg",
+    "filled": "/icons/filled/assets-and-devices/clean_display.svg"
+  },
+  {
+    "name": "iphone",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "mobile",
+      "device",
+      "ios",
+      "apple",
+      "smartphone"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/iphone.svg",
+    "filled": "/icons/filled/assets-and-devices/iphone.svg"
+  },
+  {
+    "name": "repair",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "tools",
+      "fix",
+      "service",
+      "hammer",
+      "support",
+      "technician"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/repair.svg",
+    "filled": "/icons/filled/assets-and-devices/repair.svg"
+  },
+  {
+    "name": "tools",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "repair",
+      "fix",
+      "service",
+      "hammer",
+      "support",
+      "technician"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/tools.svg",
+    "filled": "/icons/filled/assets-and-devices/tools.svg"
+  },
+  {
+    "name": "carriers",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "Text"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/carriers.svg",
+    "filled": "/icons/filled/assets-and-devices/carriers.svg"
+  },
+  {
+    "name": "heat_pump",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "air conditioner",
+      "cool",
+      "energy",
+      "furnance",
+      "heat",
+      "nest",
+      "pump",
+      "usage"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/heat_pump.svg",
+    "filled": "/icons/filled/assets-and-devices/heat_pump.svg"
+  },
+  {
+    "name": "calculator",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "math",
+      "compute",
+      "numbers",
+      "finance"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/calculator.svg",
+    "filled": "/icons/filled/assets-and-devices/calculator.svg"
+  },
+  {
+    "name": "lightbulb",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "idea",
+      "illumination",
+      "lighting",
+      "power",
+      "energy",
+      "device"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/lightbulb.svg",
+    "filled": "/icons/filled/assets-and-devices/lightbulb.svg"
+  },
+  {
+    "name": "monitor",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "baseline",
+      "device",
+      "track"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/monitor.svg",
+    "filled": "/icons/filled/assets-and-devices/monitor.svg"
+  },
+  {
+    "name": "mode_fan",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "air conditioner",
+      "cool",
+      "enabled",
+      "fan",
+      "nest",
+      "on",
+      "slash"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/mode_fan.svg",
+    "filled": "/icons/filled/assets-and-devices/mode_fan.svg"
+  },
+  {
+    "name": "mode_fan_off",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "air conditioner",
+      "cool",
+      "disabled",
+      "fan",
+      "nest",
+      "off",
+      "slash"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/mode_fan_off.svg",
+    "filled": "/icons/filled/assets-and-devices/mode_fan_off.svg"
+  },
+  {
+    "name": "reefer_container",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "temperature",
+      "sensitive",
+      "cargo",
+      "airflow",
+      "journey"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/reefer_container.svg",
+    "filled": "/icons/filled/assets-and-devices/reefer_container.svg"
+  },
+  {
+    "name": "package",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "box",
+      "shipping",
+      "label",
+      "tag",
+      "delivery"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/package.svg",
+    "filled": "/icons/filled/assets-and-devices/package.svg"
+  },
+  {
+    "name": "low_tire_pressure",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "warning",
+      "gauge",
+      "air",
+      "tpms",
+      "safety",
+      "tread"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/low_tire_pressure.svg",
+    "filled": "/icons/filled/assets-and-devices/low_tire_pressure.svg"
+  },
+  {
+    "name": "gas_meter",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "droplet",
+      "energy",
+      "gas",
+      "measure",
+      "meter",
+      "nest",
+      "usage",
+      "water"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/gas_meter.svg",
+    "filled": "/icons/filled/assets-and-devices/gas_meter.svg"
+  },
+  {
+    "name": "oil_barrel",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "barrel",
+      "droplet",
+      "gas",
+      "gasoline",
+      "nest",
+      "oil",
+      "water"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/oil_barrel.svg",
+    "filled": "/icons/filled/assets-and-devices/oil_barrel.svg"
+  },
+  {
+    "name": "software",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "code",
+      "application",
+      "firmware",
+      "package"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/software.svg",
+    "filled": "/icons/filled/assets-and-devices/software.svg"
+  },
+  {
+    "name": "wind_power",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "eco",
+      "energy",
+      "nest",
+      "power",
+      "wind",
+      "windy"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/wind_power.svg",
+    "filled": "/icons/filled/assets-and-devices/wind_power.svg"
+  },
+  {
+    "name": "battery_discharge",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "energy",
+      "down",
+      "arrow",
+      "circle",
+      "electricity"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/battery_discharge.svg",
+    "filled": "/icons/filled/assets-and-devices/battery_discharge.svg"
+  },
+  {
+    "name": "break_pad_warning",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "warning",
+      "tire",
+      "alert",
+      "safety",
+      "vehicle",
+      "maintenance"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/break_pad_warning.svg",
+    "filled": "/icons/filled/assets-and-devices/break_pad_warning.svg"
+  },
+  {
+    "name": "tire_warning",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "warning",
+      "alert",
+      "safety",
+      "vehicle",
+      "maintenance"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/tire_warning.svg",
+    "filled": "/icons/filled/assets-and-devices/tire_warning.svg"
+  },
+  {
+    "name": "laptop",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "OS",
+      "computer",
+      "display",
+      "laptop",
+      "mac",
+      "monitor",
+      "screen",
+      "web",
+      "windows"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/laptop.svg",
+    "filled": "/icons/filled/assets-and-devices/laptop.svg"
+  },
+  {
+    "name": "desktop",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "device",
+      "display",
+      "hardware",
+      "mac",
+      "monitor",
+      "screen",
+      "television",
+      "tv",
+      "web",
+      "windows"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/desktop.svg",
+    "filled": "/icons/filled/assets-and-devices/desktop.svg"
+  },
+  {
+    "name": "mouse",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "click",
+      "computer",
+      "cursor",
+      "device",
+      "hardware",
+      "mouse",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/mouse.svg",
+    "filled": "/icons/filled/assets-and-devices/mouse.svg"
+  },
+  {
+    "name": "energy_savings_leaf",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "eco",
+      "energy",
+      "leaf",
+      "leaves",
+      "nest",
+      "savings",
+      "usage"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/energy_savings_leaf.svg",
+    "filled": "/icons/filled/assets-and-devices/energy_savings_leaf.svg"
+  },
+  {
+    "name": "solar_power",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "eco",
+      "energy",
+      "heat",
+      "nest",
+      "power",
+      "solar",
+      "sun",
+      "sunny"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/solar_power.svg",
+    "filled": "/icons/filled/assets-and-devices/solar_power.svg"
+  },
+  {
+    "name": "tank",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "propane",
+      "fuel",
+      "gas=",
+      "storage",
+      "energy",
+      "container"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/tank.svg",
+    "filled": "/icons/filled/assets-and-devices/tank.svg"
+  },
+  {
+    "name": "heat_wheel",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "energy",
+      "recovery",
+      "ventilation",
+      "hvac",
+      "airflow",
+      "exchange",
+      "thermal"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/heat_wheel.svg",
+    "filled": "/icons/filled/assets-and-devices/heat_wheel.svg"
+  },
+  {
+    "name": "breaker_panel",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "electrical",
+      "power",
+      "circuit",
+      "safety",
+      "equipment",
+      "plug"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/breaker_panel.svg",
+    "filled": "/icons/filled/assets-and-devices/breaker_panel.svg"
+  },
+  {
+    "name": "motor",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "engine",
+      "power",
+      "machine",
+      "vehicle",
+      "equipment",
+      "drive"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/motor.svg",
+    "filled": "/icons/filled/assets-and-devices/motor.svg"
+  },
+  {
+    "name": "compartment",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "trailer",
+      "storage",
+      "container",
+      "cargo",
+      "transport",
+      "unit"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/compartment.svg",
+    "filled": "/icons/filled/assets-and-devices/compartment.svg"
+  },
+  {
+    "name": "compartment_warning",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "trailer",
+      "storage",
+      "container",
+      "cargo",
+      "transport",
+      "unit",
+      "alert"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/compartment_warning.svg",
+    "filled": "/icons/filled/assets-and-devices/compartment_warning.svg"
+  },
+  {
+    "name": "compartment_disabled",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "trailer",
+      "storage",
+      "container",
+      "cargo",
+      "transport",
+      "unit",
+      "clear"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/compartment_disabled.svg",
+    "filled": "/icons/filled/assets-and-devices/compartment_disabled.svg"
+  },
+  {
+    "name": "moisture_sensor",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "equipment",
+      "water",
+      "rain",
+      "drop",
+      "signal"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/moisture_sensor.svg",
+    "filled": "/icons/filled/assets-and-devices/moisture_sensor.svg"
+  },
+  {
+    "name": "radiant_panel",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "heat",
+      "steam",
+      "furnace",
+      "pump"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/radiant_panel.svg",
+    "filled": "/icons/filled/assets-and-devices/radiant_panel.svg"
+  },
+  {
+    "name": "heat_exchanger",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "furnace",
+      "radiant",
+      "energy",
+      "wave",
+      "coil",
+      "unit"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/heat_exchanger.svg",
+    "filled": "/icons/filled/assets-and-devices/heat_exchanger.svg"
+  },
+  {
+    "name": "circuit_breaker",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "switch",
+      "safety",
+      "electricity",
+      "off",
+      "on",
+      "GFCI"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/circuit_breaker.svg",
+    "filled": "/icons/filled/assets-and-devices/circuit_breaker.svg"
+  },
+  {
+    "name": "water_valve",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "Text"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/water_valve.svg",
+    "filled": "/icons/filled/assets-and-devices/water_valve.svg"
+  },
+  {
+    "name": "furnace",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "heat",
+      "fire",
+      "radiant",
+      "energy",
+      "unit",
+      "boiler"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/furnace.svg",
+    "filled": "/icons/filled/assets-and-devices/furnace.svg"
+  },
+  {
+    "name": "phone_call",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "cell",
+      "contact",
+      "device",
+      "mobile",
+      "contact",
+      "telephone"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/phone_call.svg",
+    "filled": "/icons/filled/assets-and-devices/phone_call.svg"
+  },
+  {
+    "name": "device_manager",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "connection",
+      "network",
+      "scan",
+      "folder",
+      "monitor",
+      "settings"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/device_manager.svg",
+    "filled": "/icons/filled/assets-and-devices/device_manager.svg"
+  },
+  {
+    "name": "onboard",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "setup",
+      "sign up",
+      "introduction",
+      "application",
+      "guide",
+      "grid"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/onboard.svg",
+    "filled": "/icons/filled/assets-and-devices/onboard.svg"
+  },
+  {
+    "name": "waterflow",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "direction",
+      "liquid",
+      "movement",
+      "circulation",
+      "hvac",
+      "chiller",
+      "arrows"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/waterflow.svg",
+    "filled": "/icons/filled/assets-and-devices/waterflow.svg"
+  },
+  {
+    "name": "open_door",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "truck",
+      "storage",
+      "container",
+      "cargo",
+      "transport",
+      "alert"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/open_door.svg",
+    "filled": "/icons/filled/assets-and-devices/open_door.svg"
+  },
+  {
+    "name": "solar_pv_heater",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "eco",
+      "energy",
+      "heat",
+      "nest",
+      "power",
+      "sun",
+      "sunny"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/solar_pv_heater.svg",
+    "filled": "/icons/filled/assets-and-devices/solar_pv_heater.svg"
+  },
+  {
+    "name": "wall_controller",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "thermostat",
+      "device",
+      "control panel",
+      "hvac",
+      "interface",
+      "smart-home"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/wall_controller.svg",
+    "filled": "/icons/filled/assets-and-devices/wall_controller.svg"
+  },
+  {
+    "name": "air_monitor",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "device",
+      "hvac",
+      "indoor air quality",
+      "iaq",
+      "filter"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/air_monitor.svg",
+    "filled": "/icons/filled/assets-and-devices/air_monitor.svg"
+  },
+  {
+    "name": "entry_tier",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "thermostat",
+      "device",
+      "control panel",
+      "hvac",
+      "interface",
+      "smart-home"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/entry_tier.svg",
+    "filled": "/icons/filled/assets-and-devices/entry_tier.svg"
+  },
+  {
+    "name": "air_purifier",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "device",
+      "hvac",
+      "indoor air quality",
+      "iaq",
+      "filter"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/air_purifier.svg",
+    "filled": "/icons/filled/assets-and-devices/air_purifier.svg"
+  },
+  {
+    "name": "cpu",
+    "category": "Assets & Devices",
+    "categorySlug": "assets-and-devices",
+    "aliases": [
+      "chip",
+      "microchip",
+      "computer",
+      "circuit",
+      "processor"
+    ],
+    "outlined": "/icons/outlined/assets-and-devices/cpu.svg",
+    "filled": "/icons/filled/assets-and-devices/cpu.svg"
+  },
+  {
+    "name": "heat",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "air conditioner",
+      "cool",
+      "energy",
+      "furnace",
+      "heat",
+      "nest",
+      "pump",
+      "usage"
+    ],
+    "outlined": "/icons/outlined/climate/heat.svg",
+    "filled": "/icons/filled/climate/heat.svg"
+  },
+  {
+    "name": "air_flow",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "air conditioner",
+      "cool",
+      "energy",
+      "furnace",
+      "heat",
+      "nest",
+      "pump",
+      "usage"
+    ],
+    "outlined": "/icons/outlined/climate/air_flow.svg",
+    "filled": "/icons/filled/climate/air_flow.svg"
+  },
+  {
+    "name": "air",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "air",
+      "blowing",
+      "breeze",
+      "flow",
+      "wave",
+      "weather",
+      "wind"
+    ],
+    "outlined": "/icons/outlined/climate/air.svg",
+    "filled": "/icons/filled/climate/air.svg"
+  },
+  {
+    "name": "fire",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "911",
+      "climate",
+      "department",
+      "fire",
+      "firefighter",
+      "flame",
+      "heat",
+      "home",
+      "hot",
+      "nest",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/fire.svg",
+    "filled": "/icons/filled/climate/fire.svg"
+  },
+  {
+    "name": "water_drop",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "drink",
+      "eco",
+      "liquid",
+      "nature",
+      "ocean",
+      "rain",
+      "water"
+    ],
+    "outlined": "/icons/outlined/climate/water_drop.svg",
+    "filled": "/icons/filled/climate/water_drop.svg"
+  },
+  {
+    "name": "water",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "drink",
+      "eco",
+      "liquid",
+      "nature",
+      "ocean",
+      "rain",
+      "water"
+    ],
+    "outlined": "/icons/outlined/climate/water.svg",
+    "filled": "/icons/filled/climate/water.svg"
+  },
+  {
+    "name": "sun",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "weather",
+      "bright",
+      "light",
+      "sunny",
+      "day"
+    ],
+    "outlined": "/icons/outlined/climate/sun.svg",
+    "filled": "/icons/filled/climate/sun.svg"
+  },
+  {
+    "name": "snowflake",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "cold",
+      "chill",
+      "snow",
+      "snowflake",
+      "weather"
+    ],
+    "outlined": "/icons/outlined/climate/snowflake.svg",
+    "filled": "/icons/filled/climate/snowflake.svg"
+  },
+  {
+    "name": "severe_cold",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "crisis",
+      "snow",
+      "snowflake",
+      "weather"
+    ],
+    "outlined": "/icons/outlined/climate/severe_cold.svg",
+    "filled": "/icons/filled/climate/severe_cold.svg"
+  },
+  {
+    "name": "thermometer",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer.svg",
+    "filled": "/icons/filled/climate/thermometer.svg"
+  },
+  {
+    "name": "thermometer_minus",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_minus.svg",
+    "filled": "/icons/filled/climate/thermometer_minus.svg"
+  },
+  {
+    "name": "thermometer_add",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_add.svg",
+    "filled": "/icons/filled/climate/thermometer_add.svg"
+  },
+  {
+    "name": "thermometer_download",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_download.svg",
+    "filled": "/icons/filled/climate/thermometer_download.svg"
+  },
+  {
+    "name": "thermometer_upload",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_upload.svg",
+    "filled": "/icons/filled/climate/thermometer_upload.svg"
+  },
+  {
+    "name": "thermometer_alert",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_alert.svg",
+    "filled": "/icons/filled/climate/thermometer_alert.svg"
+  },
+  {
+    "name": "thermometer_setpoint",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/thermometer_setpoint.svg",
+    "filled": "/icons/filled/climate/thermometer_setpoint.svg"
+  },
+  {
+    "name": "defrost",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "heat",
+      "airflow",
+      "climate",
+      "warming",
+      "hvac",
+      "temperature",
+      "arrows"
+    ],
+    "outlined": "/icons/outlined/climate/defrost.svg",
+    "filled": "/icons/filled/climate/defrost.svg"
+  },
+  {
+    "name": "breeze-away",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "hvac",
+      "airflow",
+      "ventilation",
+      "air",
+      "fan",
+      "climate",
+      "thermostat"
+    ],
+    "outlined": "/icons/outlined/climate/breeze-away.svg",
+    "filled": "/icons/filled/climate/breeze-away.svg"
+  },
+  {
+    "name": "rain",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "weather",
+      "storm",
+      "shower",
+      "precipitation"
+    ],
+    "outlined": "/icons/outlined/climate/rain.svg",
+    "filled": "/icons/filled/climate/rain.svg"
+  },
+  {
+    "name": "snow",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "blizzard",
+      "weather",
+      "winter",
+      "flurry",
+      "precipitation"
+    ],
+    "outlined": "/icons/outlined/climate/snow.svg",
+    "filled": "/icons/filled/climate/snow.svg"
+  },
+  {
+    "name": "mode_range",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "temperature",
+      "heating",
+      "cooling",
+      "climate control",
+      "hvac",
+      "thermostat",
+      "comfort"
+    ],
+    "outlined": "/icons/outlined/climate/mode_range.svg",
+    "filled": "/icons/filled/climate/mode_range.svg"
+  },
+  {
+    "name": "mode_range_split",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "temperature",
+      "heating",
+      "cooling",
+      "climate control",
+      "hvac",
+      "thermostat",
+      "comfort"
+    ],
+    "outlined": "/icons/outlined/climate/mode_range_split.svg",
+    "filled": "/icons/filled/climate/mode_range_split.svg"
+  },
+  {
+    "name": "mode_night",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "dark",
+      "disturb",
+      "mode",
+      "moon",
+      "night",
+      "sleep",
+      "weather"
+    ],
+    "outlined": "/icons/outlined/climate/mode_night.svg",
+    "filled": "/icons/filled/climate/mode_night.svg"
+  },
+  {
+    "name": "wake",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "sun",
+      "morning",
+      "rays",
+      "up"
+    ],
+    "outlined": "/icons/outlined/climate/wake.svg",
+    "filled": "/icons/filled/climate/wake.svg"
+  },
+  {
+    "name": "weather_cloudy",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "sun",
+      "cloud",
+      "light",
+      "overcast"
+    ],
+    "outlined": "/icons/outlined/climate/weather_cloudy.svg",
+    "filled": "/icons/filled/climate/weather_cloudy.svg"
+  },
+  {
+    "name": "weather_snowy",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "Text"
+    ],
+    "outlined": "/icons/outlined/climate/weather_snowy.svg",
+    "filled": "/icons/filled/climate/weather_snowy.svg"
+  },
+  {
+    "name": "weather_rainy",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "Text"
+    ],
+    "outlined": "/icons/outlined/climate/weather_rainy.svg",
+    "filled": "/icons/filled/climate/weather_rainy.svg"
+  },
+  {
+    "name": "weather_foggy",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "Text"
+    ],
+    "outlined": "/icons/outlined/climate/weather_foggy.svg",
+    "filled": "/icons/filled/climate/weather_foggy.svg"
+  },
+  {
+    "name": "dry",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "dry",
+      "dehumidify",
+      "moisture-control",
+      "climate",
+      "air",
+      "hvac"
+    ],
+    "outlined": "/icons/outlined/climate/dry.svg",
+    "filled": "/icons/filled/climate/dry.svg"
+  },
+  {
+    "name": "domestic_hot_water",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "chiller",
+      "energy",
+      "furnace",
+      "heat",
+      "pump",
+      "usage",
+      "dhw"
+    ],
+    "outlined": "/icons/outlined/climate/domestic_hot_water.svg",
+    "filled": "/icons/filled/climate/domestic_hot_water.svg"
+  },
+  {
+    "name": "temperature_inside",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer"
+    ],
+    "outlined": "/icons/outlined/climate/temperature_inside.svg",
+    "filled": "/icons/filled/climate/temperature_inside.svg"
+  },
+  {
+    "name": "temperature_outside",
+    "category": "Climate",
+    "categorySlug": "climate",
+    "aliases": [
+      "auto",
+      "celsius",
+      "fahrenheit",
+      "meter",
+      "temperature",
+      "thermometer"
+    ],
+    "outlined": "/icons/outlined/climate/temperature_outside.svg",
+    "filled": "/icons/filled/climate/temperature_outside.svg"
+  },
+  {
+    "name": "wifi",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "connection",
+      "data",
+      "internet",
+      "network",
+      "scan",
+      "service",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/wifi.svg",
+    "filled": "/icons/filled/connection/wifi.svg"
+  },
+  {
+    "name": "wifi_off",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "connection",
+      "data",
+      "disabled",
+      "internet",
+      "network",
+      "scan",
+      "service",
+      "signal",
+      "slash",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/wifi_off.svg",
+    "filled": "/icons/filled/connection/wifi_off.svg"
+  },
+  {
+    "name": "sensor",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "connection",
+      "network",
+      "scan",
+      "sensors",
+      "signal",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/sensor.svg",
+    "filled": "/icons/filled/connection/sensor.svg"
+  },
+  {
+    "name": "bluetooth",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cast",
+      "connection",
+      "device",
+      "paring",
+      "streaming",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/bluetooth.svg",
+    "filled": "/icons/filled/connection/bluetooth.svg"
+  },
+  {
+    "name": "bluetooth_connected",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bluetooth",
+      "cast",
+      "connection",
+      "device",
+      "paring",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/bluetooth_connected.svg",
+    "filled": "/icons/filled/connection/bluetooth_connected.svg"
+  },
+  {
+    "name": "bluetooth_disabled",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bluetooth",
+      "cast",
+      "connect",
+      "device",
+      "off",
+      "offline",
+      "on",
+      "paring",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/bluetooth_disabled.svg",
+    "filled": "/icons/filled/connection/bluetooth_disabled.svg"
+  },
+  {
+    "name": "signal_cellular_alt",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "analytics",
+      "bar",
+      "cellular",
+      "chart",
+      "data",
+      "graph",
+      "internet",
+      "network",
+      "phone",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_cellular_alt.svg",
+    "filled": "/icons/filled/connection/signal_cellular_alt.svg"
+  },
+  {
+    "name": "settings_remote",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bluetooth",
+      "connection",
+      "connectivity",
+      "device",
+      "settings",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/settings_remote.svg",
+    "filled": "/icons/filled/connection/settings_remote.svg"
+  },
+  {
+    "name": "router",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cable",
+      "connection",
+      "hardware",
+      "internet",
+      "network",
+      "router",
+      "signal",
+      "wifi"
+    ],
+    "outlined": "/icons/outlined/connection/router.svg",
+    "filled": "/icons/filled/connection/router.svg"
+  },
+  {
+    "name": "cloud_upload",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "arrow",
+      "backup",
+      "connection",
+      "download",
+      "drive",
+      "files internet",
+      "network",
+      "sky",
+      "storage",
+      "upload"
+    ],
+    "outlined": "/icons/outlined/connection/cloud_upload.svg",
+    "filled": "/icons/filled/connection/cloud_upload.svg"
+  },
+  {
+    "name": "cloud",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cloud",
+      "connection",
+      "internet",
+      "network",
+      "sky",
+      "upload"
+    ],
+    "outlined": "/icons/outlined/connection/cloud.svg",
+    "filled": "/icons/filled/connection/cloud.svg"
+  },
+  {
+    "name": "cloud_done",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "backup",
+      "check",
+      "complete",
+      "connection",
+      "network",
+      "storage",
+      "upload",
+      "validate",
+      "verified"
+    ],
+    "outlined": "/icons/outlined/connection/cloud_done.svg",
+    "filled": "/icons/filled/connection/cloud_done.svg"
+  },
+  {
+    "name": "cloud_download",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "arrow",
+      "backup",
+      "connection",
+      "download",
+      "drive",
+      "files",
+      "internet",
+      "network",
+      "storage"
+    ],
+    "outlined": "/icons/outlined/connection/cloud_download.svg",
+    "filled": "/icons/filled/connection/cloud_download.svg"
+  },
+  {
+    "name": "cloud_off",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "connection",
+      "disabled",
+      "drive",
+      "files",
+      "network",
+      "offline",
+      "slash",
+      "storage"
+    ],
+    "outlined": "/icons/outlined/connection/cloud_off.svg",
+    "filled": "/icons/filled/connection/cloud_off.svg"
+  },
+  {
+    "name": "battery_alert",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "alert",
+      "attention",
+      "caution",
+      "cell",
+      "charge",
+      "error",
+      "notification",
+      "power",
+      "warning"
+    ],
+    "outlined": "/icons/outlined/connection/battery_alert.svg",
+    "filled": "/icons/filled/connection/battery_alert.svg"
+  },
+  {
+    "name": "battery_charging_full",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "battery",
+      "bolt",
+      "cell",
+      "charge",
+      "charging",
+      "full",
+      "mobile",
+      "power"
+    ],
+    "outlined": "/icons/outlined/connection/battery_charging_full.svg",
+    "filled": "/icons/filled/connection/battery_charging_full.svg"
+  },
+  {
+    "name": "battery_charging",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "+",
+      "add",
+      "battery",
+      "charge",
+      "charging",
+      "new",
+      "plus",
+      "power",
+      "saver",
+      "symbol"
+    ],
+    "outlined": "/icons/outlined/connection/battery_charging.svg",
+    "filled": "/icons/filled/connection/battery_charging.svg"
+  },
+  {
+    "name": "battery_discharging",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "+",
+      "add",
+      "battery",
+      "charge",
+      "charging",
+      "new",
+      "plus",
+      "power",
+      "saver",
+      "symbol"
+    ],
+    "outlined": "/icons/outlined/connection/battery_discharging.svg",
+    "filled": "/icons/filled/connection/battery_discharging.svg"
+  },
+  {
+    "name": "qr_code",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "barcode",
+      "camera",
+      "code",
+      "media",
+      "product",
+      "smartphone",
+      "url"
+    ],
+    "outlined": "/icons/outlined/connection/qr_code.svg",
+    "filled": "/icons/filled/connection/qr_code.svg"
+  },
+  {
+    "name": "battery_0_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bar",
+      "battery",
+      "cell",
+      "charge",
+      "mobile",
+      "power"
+    ],
+    "outlined": "/icons/outlined/connection/battery_0_bar.svg",
+    "filled": "/icons/filled/connection/battery_0_bar.svg"
+  },
+  {
+    "name": "battery_1_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bar",
+      "battery",
+      "cell",
+      "charge",
+      "mobile",
+      "power"
+    ],
+    "outlined": "/icons/outlined/connection/battery_1_bar.svg",
+    "filled": "/icons/filled/connection/battery_1_bar.svg"
+  },
+  {
+    "name": "battery_2_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "bar",
+      "battery",
+      "cell",
+      "charge",
+      "mobile",
+      "power"
+    ],
+    "outlined": "/icons/outlined/connection/battery_2_bar.svg",
+    "filled": "/icons/filled/connection/battery_2_bar.svg"
+  },
+  {
+    "name": "battery_full",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "battery",
+      "cell",
+      "charge",
+      "full",
+      "mobile",
+      "power"
+    ],
+    "outlined": "/icons/outlined/connection/battery_full.svg",
+    "filled": "/icons/filled/connection/battery_full.svg"
+  },
+  {
+    "name": "power_plug",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "outlet",
+      "socket",
+      "connector",
+      "electrical",
+      "charging"
+    ],
+    "outlined": "/icons/outlined/connection/power_plug.svg",
+    "filled": "/icons/filled/connection/power_plug.svg"
+  },
+  {
+    "name": "power_plug_alt",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "outlet",
+      "socket",
+      "connector",
+      "electrical",
+      "charging",
+      "bolt"
+    ],
+    "outlined": "/icons/outlined/connection/power_plug_alt.svg",
+    "filled": "/icons/filled/connection/power_plug_alt.svg"
+  },
+  {
+    "name": "power_home",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "outlet",
+      "socket",
+      "connector",
+      "electrical",
+      "charging"
+    ],
+    "outlined": "/icons/outlined/connection/power_home.svg",
+    "filled": "/icons/filled/connection/power_home.svg"
+  },
+  {
+    "name": "cloud_to_cloud",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cloud",
+      "connection",
+      "internet",
+      "network",
+      "sky",
+      "upload"
+    ],
+    "outlined": "/icons/outlined/connection/cloud_to_cloud.svg",
+    "filled": "/icons/filled/connection/cloud_to_cloud.svg"
+  },
+  {
+    "name": "signal_connected",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "tower",
+      "cell",
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_connected.svg",
+    "filled": "/icons/filled/connection/signal_connected.svg"
+  },
+  {
+    "name": "signal_disconnected",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "alert",
+      "cellular",
+      "data",
+      "error",
+      "network",
+      "notification",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_disconnected.svg",
+    "filled": "/icons/filled/connection/signal_disconnected.svg"
+  },
+  {
+    "name": "signal_0_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_0_bar.svg",
+    "filled": "/icons/filled/connection/signal_0_bar.svg"
+  },
+  {
+    "name": "signal_1_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_1_bar.svg",
+    "filled": "/icons/filled/connection/signal_1_bar.svg"
+  },
+  {
+    "name": "signal_2_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_2_bar.svg",
+    "filled": "/icons/filled/connection/signal_2_bar.svg"
+  },
+  {
+    "name": "signal_3_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_3_bar.svg",
+    "filled": "/icons/filled/connection/signal_3_bar.svg"
+  },
+  {
+    "name": "signal_4_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_4_bar.svg",
+    "filled": "/icons/filled/connection/signal_4_bar.svg"
+  },
+  {
+    "name": "signal_full_bar",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "phone",
+      "signal",
+      "wifi",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/signal_full_bar.svg",
+    "filled": "/icons/filled/connection/signal_full_bar.svg"
+  },
+  {
+    "name": "bolt",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "lightning",
+      "flash",
+      "surge",
+      "electric",
+      "spark",
+      "strike"
+    ],
+    "outlined": "/icons/outlined/connection/bolt.svg",
+    "filled": "/icons/filled/connection/bolt.svg"
+  },
+  {
+    "name": "bolt_caution",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "high voltage",
+      "electrical hazard",
+      "alert",
+      "warning",
+      "shock",
+      "danger"
+    ],
+    "outlined": "/icons/outlined/connection/bolt_caution.svg",
+    "filled": "/icons/filled/connection/bolt_caution.svg"
+  },
+  {
+    "name": "matter",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "iot",
+      "smart-home",
+      "protocol"
+    ],
+    "outlined": "/icons/outlined/connection/matter.svg",
+    "filled": "/icons/filled/connection/matter.svg"
+  },
+  {
+    "name": "barcode",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "scan",
+      "product",
+      "id",
+      "label",
+      "data",
+      "track",
+      "retail"
+    ],
+    "outlined": "/icons/outlined/connection/barcode.svg",
+    "filled": "/icons/filled/connection/barcode.svg"
+  },
+  {
+    "name": "ai",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "LLM",
+      "automation",
+      "prompt",
+      "technology",
+      "chip"
+    ],
+    "outlined": "/icons/outlined/connection/ai.svg",
+    "filled": "/icons/filled/connection/ai.svg"
+  },
+  {
+    "name": "ai_single_star",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "LLM",
+      "automation",
+      "prompt",
+      "technology",
+      "MCP"
+    ],
+    "outlined": "/icons/outlined/connection/ai_single_star.svg",
+    "filled": "/icons/filled/connection/ai_single_star.svg"
+  },
+  {
+    "name": "ai_stars",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "LLM",
+      "automation",
+      "prompt",
+      "technology",
+      "MCP"
+    ],
+    "outlined": "/icons/outlined/connection/ai_stars.svg",
+    "filled": "/icons/filled/connection/ai_stars.svg"
+  },
+  {
+    "name": "occupancy_sensor",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "motion",
+      "detection",
+      "smart home",
+      "automation",
+      "activity"
+    ],
+    "outlined": "/icons/outlined/connection/occupancy_sensor.svg",
+    "filled": "/icons/filled/connection/occupancy_sensor.svg"
+  },
+  {
+    "name": "sensor_equipment",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "motion",
+      "detection",
+      "smart home",
+      "automation",
+      "activity"
+    ],
+    "outlined": "/icons/outlined/connection/sensor_equipment.svg",
+    "filled": "/icons/filled/connection/sensor_equipment.svg"
+  },
+  {
+    "name": "network",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "computer",
+      "connection",
+      "data",
+      "internet",
+      "lan",
+      "network",
+      "service"
+    ],
+    "outlined": "/icons/outlined/connection/network.svg",
+    "filled": "/icons/filled/connection/network.svg"
+  },
+  {
+    "name": "power_limitation",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "lightning",
+      "flash",
+      "surge",
+      "electric",
+      "spark",
+      "strike"
+    ],
+    "outlined": "/icons/outlined/connection/power_limitation.svg",
+    "filled": "/icons/filled/connection/power_limitation.svg"
+  },
+  {
+    "name": "battery_bolt_vertical",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cell",
+      "charge",
+      "full",
+      "lightening",
+      "power",
+      "thunderbolt"
+    ],
+    "outlined": "/icons/outlined/connection/battery_bolt_vertical.svg",
+    "filled": "/icons/filled/connection/battery_bolt_vertical.svg"
+  },
+  {
+    "name": "battery_charging_vertical",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cell",
+      "charge",
+      "full",
+      "power",
+      "increase"
+    ],
+    "outlined": "/icons/outlined/connection/battery_charging_vertical.svg",
+    "filled": "/icons/filled/connection/battery_charging_vertical.svg"
+  },
+  {
+    "name": "battery_discharging_vertical",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cell",
+      "charge",
+      "full",
+      "power",
+      "decrease"
+    ],
+    "outlined": "/icons/outlined/connection/battery_discharging_vertical.svg",
+    "filled": "/icons/filled/connection/battery_discharging_vertical.svg"
+  },
+  {
+    "name": "iaq_sensor",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "blur",
+      "dim",
+      "motion",
+      "smart home"
+    ],
+    "outlined": "/icons/outlined/connection/iaq_sensor.svg",
+    "filled": "/icons/filled/connection/iaq_sensor.svg"
+  },
+  {
+    "name": "dry_contact_relay",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "electrical",
+      "switch",
+      "control",
+      "circuit",
+      "signal"
+    ],
+    "outlined": "/icons/outlined/connection/dry_contact_relay.svg",
+    "filled": "/icons/filled/connection/dry_contact_relay.svg"
+  },
+  {
+    "name": "grid_drawing",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "power",
+      "tower",
+      "connect",
+      "electricity"
+    ],
+    "outlined": "/icons/outlined/connection/grid_drawing.svg",
+    "filled": "/icons/filled/connection/grid_drawing.svg"
+  },
+  {
+    "name": "grid_feeding_in",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "power",
+      "tower",
+      "connect",
+      "electricity"
+    ],
+    "outlined": "/icons/outlined/connection/grid_feeding_in.svg",
+    "filled": "/icons/filled/connection/grid_feeding_in.svg"
+  },
+  {
+    "name": "grid_tower",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "power",
+      "connect",
+      "electricity"
+    ],
+    "outlined": "/icons/outlined/connection/grid_tower.svg",
+    "filled": "/icons/filled/connection/grid_tower.svg"
+  },
+  {
+    "name": "api",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "api",
+      "development",
+      "connect",
+      "software"
+    ],
+    "outlined": "/icons/outlined/connection/api.svg",
+    "filled": "/icons/filled/connection/api.svg"
+  },
+  {
+    "name": "wifi_tethering",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "cellular",
+      "connection",
+      "data",
+      "internet",
+      "mobile",
+      "network",
+      "scan",
+      "service",
+      "signal",
+      "wireless"
+    ],
+    "outlined": "/icons/outlined/connection/wifi_tethering.svg",
+    "filled": "/icons/filled/connection/wifi_tethering.svg"
+  },
+  {
+    "name": "loading",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "spin",
+      "progress",
+      "star",
+      "bright"
+    ],
+    "outlined": "/icons/outlined/connection/loading.svg",
+    "filled": "/icons/filled/connection/loading.svg"
+  },
+  {
+    "name": "hierarchy",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "nested",
+      "assets",
+      "devices",
+      "site",
+      "parent",
+      "child"
+    ],
+    "outlined": "/icons/outlined/connection/hierarchy.svg",
+    "filled": "/icons/filled/connection/hierarchy.svg"
+  },
+  {
+    "name": "gateway",
+    "category": "Connection",
+    "categorySlug": "connection",
+    "aliases": [
+      "node",
+      "network",
+      "inside",
+      "outside",
+      "connection"
+    ],
+    "outlined": "/icons/outlined/connection/gateway.svg",
+    "filled": "/icons/filled/connection/gateway.svg"
+  },
+  {
+    "name": "calendar",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar.svg",
+    "filled": "/icons/filled/date-and-time/calendar.svg"
+  },
+  {
+    "name": "calendar_clock",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today",
+      "time"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_clock.svg",
+    "filled": "/icons/filled/date-and-time/calendar_clock.svg"
+  },
+  {
+    "name": "calendar_daterange",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_daterange.svg",
+    "filled": "/icons/filled/date-and-time/calendar_daterange.svg"
+  },
+  {
+    "name": "calendar_today",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "date",
+      "day",
+      "event",
+      "mark",
+      "month",
+      "remember",
+      "reminder",
+      "schedule",
+      "time",
+      "today"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_today.svg",
+    "filled": "/icons/filled/date-and-time/calendar_today.svg"
+  },
+  {
+    "name": "calendar_month",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_month.svg",
+    "filled": "/icons/filled/date-and-time/calendar_month.svg"
+  },
+  {
+    "name": "calendar_check",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "approve",
+      "available",
+      "complete",
+      "date",
+      "done",
+      "event",
+      "schedule",
+      "select",
+      "time",
+      "validate",
+      "verified"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_check.svg",
+    "filled": "/icons/filled/date-and-time/calendar_check.svg"
+  },
+  {
+    "name": "calendar_error",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "busy",
+      "cancel",
+      "close",
+      "date",
+      "event",
+      "exit",
+      "remove",
+      "schedule",
+      "stop",
+      "time",
+      "unavailable",
+      "x"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_error.svg",
+    "filled": "/icons/filled/date-and-time/calendar_error.svg"
+  },
+  {
+    "name": "calendar_notes",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "date",
+      "event",
+      "note",
+      "schedule",
+      "text",
+      "time",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_notes.svg",
+    "filled": "/icons/filled/date-and-time/calendar_notes.svg"
+  },
+  {
+    "name": "calendar_alarm",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today",
+      "time",
+      "notification"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_alarm.svg",
+    "filled": "/icons/filled/date-and-time/calendar_alarm.svg"
+  },
+  {
+    "name": "calendar_edit",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "create",
+      "date",
+      "day",
+      "draft",
+      "editing",
+      "event",
+      "pen",
+      "pencil",
+      "schedule",
+      "write"
+    ],
+    "outlined": "/icons/outlined/date-and-time/calendar_edit.svg",
+    "filled": "/icons/filled/date-and-time/calendar_edit.svg"
+  },
+  {
+    "name": "time_clock",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "attendance",
+      "punch",
+      "workforce",
+      "shift"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_clock.svg",
+    "filled": "/icons/filled/date-and-time/time_clock.svg"
+  },
+  {
+    "name": "time_alarm",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "reminder",
+      "alert",
+      "wake",
+      "bell"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_alarm.svg",
+    "filled": "/icons/filled/date-and-time/time_alarm.svg"
+  },
+  {
+    "name": "time_alarm_check",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "verified",
+      "acknowledged",
+      "confirmed"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_alarm_check.svg",
+    "filled": "/icons/filled/date-and-time/time_alarm_check.svg"
+  },
+  {
+    "name": "clock_alarm_off",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "silent",
+      "mute",
+      "disabled"
+    ],
+    "outlined": "/icons/outlined/date-and-time/clock_alarm_off.svg",
+    "filled": "/icons/filled/date-and-time/clock_alarm_off.svg"
+  },
+  {
+    "name": "time_clock_refresh",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "sync",
+      "reload",
+      "update"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_clock_refresh.svg",
+    "filled": "/icons/filled/date-and-time/time_clock_refresh.svg"
+  },
+  {
+    "name": "time_timer",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "countdown",
+      "stopwatch",
+      "duration"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_timer.svg",
+    "filled": "/icons/filled/date-and-time/time_timer.svg"
+  },
+  {
+    "name": "time_timer_off",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "stopped",
+      "paused",
+      "inactive"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_timer_off.svg",
+    "filled": "/icons/filled/date-and-time/time_timer_off.svg"
+  },
+  {
+    "name": "time_clock_restore",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "undo",
+      "revert",
+      "recover"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_clock_restore.svg",
+    "filled": "/icons/filled/date-and-time/time_clock_restore.svg"
+  },
+  {
+    "name": "time_clock_history",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "log",
+      "records",
+      "audit"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_clock_history.svg",
+    "filled": "/icons/filled/date-and-time/time_clock_history.svg"
+  },
+  {
+    "name": "time_alarm_add",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "new",
+      "create",
+      "plus"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_alarm_add.svg",
+    "filled": "/icons/filled/date-and-time/time_alarm_add.svg"
+  },
+  {
+    "name": "time_alarm_snooze",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "delay",
+      "postpone",
+      "later"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_alarm_snooze.svg",
+    "filled": "/icons/filled/date-and-time/time_alarm_snooze.svg"
+  },
+  {
+    "name": "view_month",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "grid",
+      "period",
+      "table"
+    ],
+    "outlined": "/icons/outlined/date-and-time/view_month.svg",
+    "filled": "/icons/filled/date-and-time/view_month.svg"
+  },
+  {
+    "name": "view_week",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "schedule",
+      "roster",
+      "columns"
+    ],
+    "outlined": "/icons/outlined/date-and-time/view_week.svg",
+    "filled": "/icons/filled/date-and-time/view_week.svg"
+  },
+  {
+    "name": "view_day",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "agenda",
+      "focus"
+    ],
+    "outlined": "/icons/outlined/date-and-time/view_day.svg",
+    "filled": "/icons/filled/date-and-time/view_day.svg"
+  },
+  {
+    "name": "time_autodelete",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "retention",
+      "expiry",
+      "purge"
+    ],
+    "outlined": "/icons/outlined/date-and-time/time_autodelete.svg",
+    "filled": "/icons/filled/date-and-time/time_autodelete.svg"
+  },
+  {
+    "name": "lock_time_clock",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "secure",
+      "restricted",
+      "protected"
+    ],
+    "outlined": "/icons/outlined/date-and-time/lock_time_clock.svg",
+    "filled": "/icons/filled/date-and-time/lock_time_clock.svg"
+  },
+  {
+    "name": "actions_time_clock",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "menu",
+      "options",
+      "manage"
+    ],
+    "outlined": "/icons/outlined/date-and-time/actions_time_clock.svg",
+    "filled": "/icons/filled/date-and-time/actions_time_clock.svg"
+  },
+  {
+    "name": "depart_time_clock",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "leave",
+      "punch out",
+      "end shift"
+    ],
+    "outlined": "/icons/outlined/date-and-time/depart_time_clock.svg",
+    "filled": "/icons/filled/date-and-time/depart_time_clock.svg"
+  },
+  {
+    "name": "event_upcoming",
+    "category": "Date & Time",
+    "categorySlug": "date-and-time",
+    "aliases": [
+      "calendar",
+      "date",
+      "day",
+      "event",
+      "month",
+      "schedule",
+      "today"
+    ],
+    "outlined": "/icons/outlined/date-and-time/event_upcoming.svg",
+    "filled": "/icons/filled/date-and-time/event_upcoming.svg"
+  },
+  {
+    "name": "format_color_fill",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "bucket",
+      "color",
+      "fill",
+      "format",
+      "paint"
+    ],
+    "outlined": "/icons/outlined/format/format_color_fill.svg",
+    "filled": "/icons/filled/format/format_color_fill.svg"
+  },
+  {
+    "name": "format_color_text",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "color",
+      "editor",
+      "fill",
+      "paint",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_color_text.svg",
+    "filled": "/icons/filled/format/format_color_text.svg"
+  },
+  {
+    "name": "format_italic",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "character",
+      "editor",
+      "font",
+      "italic",
+      "letter",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_italic.svg",
+    "filled": "/icons/filled/format/format_italic.svg"
+  },
+  {
+    "name": "format_bold",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "B",
+      "bold",
+      "character",
+      "editor",
+      "font",
+      "letter",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_bold.svg",
+    "filled": "/icons/filled/format/format_bold.svg"
+  },
+  {
+    "name": "format_underlined",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "character",
+      "doc",
+      "editor",
+      "font",
+      "letter",
+      "line",
+      "text",
+      "type",
+      "underlined",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_underlined.svg",
+    "filled": "/icons/filled/format/format_underlined.svg"
+  },
+  {
+    "name": "format_size",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "character",
+      "doc",
+      "editor",
+      "fill",
+      "font",
+      "letter",
+      "size",
+      "style"
+    ],
+    "outlined": "/icons/outlined/format/format_size.svg",
+    "filled": "/icons/filled/format/format_size.svg"
+  },
+  {
+    "name": "strikethrough",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "character",
+      "cross",
+      "doc",
+      "editor",
+      "font",
+      "letter",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/strikethrough.svg",
+    "filled": "/icons/filled/format/strikethrough.svg"
+  },
+  {
+    "name": "file_csv",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "spreadsheet",
+      "data",
+      "file",
+      "table"
+    ],
+    "outlined": "/icons/outlined/format/file_csv.svg",
+    "filled": "/icons/filled/format/file_csv.svg"
+  },
+  {
+    "name": "file_pdf",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "document",
+      "export",
+      "print",
+      "file"
+    ],
+    "outlined": "/icons/outlined/format/file_pdf.svg",
+    "filled": "/icons/filled/format/file_pdf.svg"
+  },
+  {
+    "name": "file_xls",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "excel",
+      "file",
+      "data export",
+      "report"
+    ],
+    "outlined": "/icons/outlined/format/file_xls.svg",
+    "filled": "/icons/filled/format/file_xls.svg"
+  },
+  {
+    "name": "format_align_left",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "doc",
+      "editor",
+      "left",
+      "spreadsheet",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_align_left.svg",
+    "filled": "/icons/filled/format/format_align_left.svg"
+  },
+  {
+    "name": "format_align_center",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "center",
+      "doc",
+      "editor",
+      "spreadsheet",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_align_center.svg",
+    "filled": "/icons/filled/format/format_align_center.svg"
+  },
+  {
+    "name": "format_align_right",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "doc",
+      "edit",
+      "editor",
+      "right",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_align_right.svg",
+    "filled": "/icons/filled/format/format_align_right.svg"
+  },
+  {
+    "name": "format_align_justify",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "density",
+      "doc",
+      "editor",
+      "justify",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_align_justify.svg",
+    "filled": "/icons/filled/format/format_align_justify.svg"
+  },
+  {
+    "name": "format_indent_decrease",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "decrease",
+      "doc",
+      "editor",
+      "indent",
+      "paragraph",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_indent_decrease.svg",
+    "filled": "/icons/filled/format/format_indent_decrease.svg"
+  },
+  {
+    "name": "format_indent_increase",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "doc",
+      "editor",
+      "increase",
+      "indent",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_indent_increase.svg",
+    "filled": "/icons/filled/format/format_indent_increase.svg"
+  },
+  {
+    "name": "format_list_numbered",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "alignment",
+      "digit",
+      "doc",
+      "editor",
+      "list",
+      "notes",
+      "number"
+    ],
+    "outlined": "/icons/outlined/format/format_list_numbered.svg",
+    "filled": "/icons/filled/format/format_list_numbered.svg"
+  },
+  {
+    "name": "format_list_bulleted",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "bulleted",
+      "doc",
+      "editor",
+      "list",
+      "notes"
+    ],
+    "outlined": "/icons/outlined/format/format_list_bulleted.svg",
+    "filled": "/icons/filled/format/format_list_bulleted.svg"
+  },
+  {
+    "name": "format_line_spacing",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "align",
+      "alignment",
+      "doc",
+      "edit",
+      "editing",
+      "editor",
+      "line",
+      "spacing",
+      "text",
+      "type",
+      "writing"
+    ],
+    "outlined": "/icons/outlined/format/format_line_spacing.svg",
+    "filled": "/icons/filled/format/format_line_spacing.svg"
+  },
+  {
+    "name": "grid_view",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "blocks",
+      "dashboard",
+      "interface",
+      "layout",
+      "tiles",
+      "window"
+    ],
+    "outlined": "/icons/outlined/format/grid_view.svg",
+    "filled": "/icons/filled/format/grid_view.svg"
+  },
+  {
+    "name": "number",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "digit",
+      "symbol",
+      "count"
+    ],
+    "outlined": "/icons/outlined/format/number.svg",
+    "filled": "/icons/filled/format/number.svg"
+  },
+  {
+    "name": "image",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "landscape",
+      "photo",
+      "photography",
+      "picture",
+      "media"
+    ],
+    "outlined": "/icons/outlined/format/image.svg",
+    "filled": "/icons/filled/format/image.svg"
+  },
+  {
+    "name": "hide_image",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "landscape",
+      "photo",
+      "photography",
+      "picture",
+      "media",
+      "missing",
+      "error"
+    ],
+    "outlined": "/icons/outlined/format/hide_image.svg",
+    "filled": "/icons/filled/format/hide_image.svg"
+  },
+  {
+    "name": "video",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "movie",
+      "film",
+      "landscape",
+      "mountain",
+      "media",
+      "camera"
+    ],
+    "outlined": "/icons/outlined/format/video.svg",
+    "filled": "/icons/filled/format/video.svg"
+  },
+  {
+    "name": "camera",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ],
+    "outlined": "/icons/outlined/format/camera.svg",
+    "filled": "/icons/filled/format/camera.svg"
+  },
+  {
+    "name": "camera_photo",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ],
+    "outlined": "/icons/outlined/format/camera_photo.svg",
+    "filled": "/icons/filled/format/camera_photo.svg"
+  },
+  {
+    "name": "file",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "document",
+      "data",
+      "paper"
+    ],
+    "outlined": "/icons/outlined/format/file.svg",
+    "filled": "/icons/filled/format/file.svg"
+  },
+  {
+    "name": "code",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "brackets",
+      "css",
+      "develop",
+      "engineer",
+      "html",
+      "react",
+      "js"
+    ],
+    "outlined": "/icons/outlined/format/code.svg",
+    "filled": "/icons/filled/format/code.svg"
+  },
+  {
+    "name": "aspect_ratio",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "aspect",
+      "expand",
+      "image",
+      "ratio",
+      "resize",
+      "scale",
+      "size",
+      "square"
+    ],
+    "outlined": "/icons/outlined/format/aspect_ratio.svg",
+    "filled": "/icons/filled/format/aspect_ratio.svg"
+  },
+  {
+    "name": "group",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "combine",
+      "action",
+      "merge",
+      "arrange",
+      "objects",
+      "related"
+    ],
+    "outlined": "/icons/outlined/format/group.svg",
+    "filled": "/icons/filled/format/group.svg"
+  },
+  {
+    "name": "sort_descending",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "filter",
+      "order",
+      "arrow",
+      "lines",
+      "list",
+      "organize",
+      "data",
+      "grid"
+    ],
+    "outlined": "/icons/outlined/format/sort_descending.svg",
+    "filled": "/icons/filled/format/sort_descending.svg"
+  },
+  {
+    "name": "sort_ascending",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "filter",
+      "order",
+      "arrow",
+      "lines",
+      "list",
+      "organize",
+      "data",
+      "grid"
+    ],
+    "outlined": "/icons/outlined/format/sort_ascending.svg",
+    "filled": "/icons/filled/format/sort_ascending.svg"
+  },
+  {
+    "name": "currency_dollar",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "usd",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_dollar.svg",
+    "filled": "/icons/filled/format/currency_dollar.svg"
+  },
+  {
+    "name": "currency_euro",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "eur",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_euro.svg",
+    "filled": "/icons/filled/format/currency_euro.svg"
+  },
+  {
+    "name": "currency_pound",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "gbp",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_pound.svg",
+    "filled": "/icons/filled/format/currency_pound.svg"
+  },
+  {
+    "name": "currency_ruble",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "rub",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_ruble.svg",
+    "filled": "/icons/filled/format/currency_ruble.svg"
+  },
+  {
+    "name": "currency_rupee",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "inr",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_rupee.svg",
+    "filled": "/icons/filled/format/currency_rupee.svg"
+  },
+  {
+    "name": "currency_yen",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "money",
+      "finance",
+      "payment",
+      "jpy",
+      "price",
+      "transaction",
+      "economy"
+    ],
+    "outlined": "/icons/outlined/format/currency_yen.svg",
+    "filled": "/icons/filled/format/currency_yen.svg"
+  },
+  {
+    "name": "data",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "binary",
+      "information",
+      "code",
+      "analytics"
+    ],
+    "outlined": "/icons/outlined/format/data.svg",
+    "filled": "/icons/filled/format/data.svg"
+  },
+  {
+    "name": "account_tree",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "chart",
+      "connect",
+      "data",
+      "diagram",
+      "flow",
+      "graph",
+      "infographic",
+      "structure"
+    ],
+    "outlined": "/icons/outlined/format/account_tree.svg",
+    "filled": "/icons/filled/format/account_tree.svg"
+  },
+  {
+    "name": "geo_grouping",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "regions",
+      "territory",
+      "clusters",
+      "mapping",
+      "group",
+      "spatial",
+      "grid"
+    ],
+    "outlined": "/icons/outlined/format/geo_grouping.svg",
+    "filled": "/icons/filled/format/geo_grouping.svg"
+  },
+  {
+    "name": "zone",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "area",
+      "region",
+      "boundary",
+      "group",
+      "control",
+      "hvac",
+      "mapping"
+    ],
+    "outlined": "/icons/outlined/format/zone.svg",
+    "filled": "/icons/filled/format/zone.svg"
+  },
+  {
+    "name": "room",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "space",
+      "area",
+      "interior",
+      "floorplan",
+      "zone",
+      "mapping",
+      "layout"
+    ],
+    "outlined": "/icons/outlined/format/room.svg",
+    "filled": "/icons/filled/format/room.svg"
+  },
+  {
+    "name": "documentation",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "document",
+      "data",
+      "paper",
+      "guidance",
+      "file"
+    ],
+    "outlined": "/icons/outlined/format/documentation.svg",
+    "filled": "/icons/filled/format/documentation.svg"
+  },
+  {
+    "name": "percentage",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "percent",
+      "ratio",
+      "math",
+      "calculation",
+      "analytics",
+      "data",
+      "statistics"
+    ],
+    "outlined": "/icons/outlined/format/percentage.svg",
+    "filled": "/icons/filled/format/percentage.svg"
+  },
+  {
+    "name": "folder",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "data",
+      "doc",
+      "document",
+      "drive",
+      "file",
+      "folder",
+      "folders",
+      "sheet",
+      "slide",
+      "storage"
+    ],
+    "outlined": "/icons/outlined/format/folder.svg",
+    "filled": "/icons/filled/format/folder.svg"
+  },
+  {
+    "name": "create_new_folder",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "+",
+      "add",
+      "create",
+      "data",
+      "doc",
+      "document",
+      "drive",
+      "file",
+      "folder",
+      "new",
+      "plus",
+      "sheet",
+      "slide",
+      "storage",
+      "symbol"
+    ],
+    "outlined": "/icons/outlined/format/create_new_folder.svg",
+    "filled": "/icons/filled/format/create_new_folder.svg"
+  },
+  {
+    "name": "full_screen",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "adjust",
+      "application",
+      "fullscreen",
+      "interface",
+      "resize",
+      "expand"
+    ],
+    "outlined": "/icons/outlined/format/full_screen.svg",
+    "filled": "/icons/filled/format/full_screen.svg"
+  },
+  {
+    "name": "minimize_screen",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "adjust",
+      "application",
+      "exit",
+      "reset",
+      "interface",
+      "resize",
+      "collapse"
+    ],
+    "outlined": "/icons/outlined/format/minimize_screen.svg",
+    "filled": "/icons/filled/format/minimize_screen.svg"
+  },
+  {
+    "name": "trending_up_arrow",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "analytics",
+      "arrow",
+      "data",
+      "graph",
+      "metrics",
+      "statistics",
+      "tracking",
+      "increase"
+    ],
+    "outlined": "/icons/outlined/format/trending_up_arrow.svg",
+    "filled": "/icons/filled/format/trending_up_arrow.svg"
+  },
+  {
+    "name": "trending_down_arrow",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "analytics",
+      "arrow",
+      "data",
+      "graph",
+      "metrics",
+      "statistics",
+      "tracking",
+      "decrease"
+    ],
+    "outlined": "/icons/outlined/format/trending_down_arrow.svg",
+    "filled": "/icons/filled/format/trending_down_arrow.svg"
+  },
+  {
+    "name": "trending_up_chart",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "analytics",
+      "arrow",
+      "data",
+      "graph",
+      "metrics",
+      "statistics",
+      "tracking",
+      "increase"
+    ],
+    "outlined": "/icons/outlined/format/trending_up_chart.svg",
+    "filled": "/icons/filled/format/trending_up_chart.svg"
+  },
+  {
+    "name": "trending_down_chart",
+    "category": "Format",
+    "categorySlug": "format",
+    "aliases": [
+      "analytics",
+      "arrow",
+      "data",
+      "graph",
+      "metrics",
+      "statistics",
+      "tracking",
+      "decrease"
+    ],
+    "outlined": "/icons/outlined/format/trending_down_chart.svg",
+    "filled": "/icons/filled/format/trending_down_chart.svg"
+  },
+  {
+    "name": "menu",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "navigation",
+      "hamburger",
+      "interface",
+      "more"
+    ],
+    "outlined": "/icons/outlined/navigation/menu.svg",
+    "filled": "/icons/filled/navigation/menu.svg"
+  },
+  {
+    "name": "chevron_double_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "direction",
+      "double",
+      "down",
+      "multiple",
+      "navigation"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_double_down.svg",
+    "filled": "/icons/filled/navigation/chevron_double_down.svg"
+  },
+  {
+    "name": "chevron_double_up",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "direction",
+      "double",
+      "multiple",
+      "navigation",
+      "up"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_double_up.svg",
+    "filled": "/icons/filled/navigation/chevron_double_up.svg"
+  },
+  {
+    "name": "chevron_double_left",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "direction",
+      "double",
+      "left",
+      "multiple",
+      "navigation"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_double_left.svg",
+    "filled": "/icons/filled/navigation/chevron_double_left.svg"
+  },
+  {
+    "name": "chevron_double_right",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "direction",
+      "double",
+      "multiple",
+      "navigation",
+      "right"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_double_right.svg",
+    "filled": "/icons/filled/navigation/chevron_double_right.svg"
+  },
+  {
+    "name": "arrow_back",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "keyboard",
+      "left",
+      "move",
+      "action",
+      "prev"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_back.svg",
+    "filled": "/icons/filled/navigation/arrow_back.svg"
+  },
+  {
+    "name": "arrow_forward",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "keyboard",
+      "right",
+      "move",
+      "action",
+      "next"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_forward.svg",
+    "filled": "/icons/filled/navigation/arrow_forward.svg"
+  },
+  {
+    "name": "arrow_up",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "keyboard",
+      "move",
+      "action",
+      "above",
+      "north"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_up.svg",
+    "filled": "/icons/filled/navigation/arrow_up.svg"
+  },
+  {
+    "name": "arrow_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "keyboard",
+      "south",
+      "move",
+      "action",
+      "below"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_down.svg",
+    "filled": "/icons/filled/navigation/arrow_down.svg"
+  },
+  {
+    "name": "near_me",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "location",
+      "maps",
+      "navigation",
+      "place",
+      "point",
+      "stop",
+      "recenter"
+    ],
+    "outlined": "/icons/outlined/navigation/near_me.svg",
+    "filled": "/icons/filled/navigation/near_me.svg"
+  },
+  {
+    "name": "location_on",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "maps",
+      "pin",
+      "place",
+      "room",
+      "stop"
+    ],
+    "outlined": "/icons/outlined/navigation/location_on.svg",
+    "filled": "/icons/filled/navigation/location_on.svg"
+  },
+  {
+    "name": "arrow_range",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "horizontal",
+      "sync",
+      "replace",
+      "update"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_range.svg",
+    "filled": "/icons/filled/navigation/arrow_range.svg"
+  },
+  {
+    "name": "chevron_up",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "keyboard",
+      "up",
+      "collapse"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_up.svg",
+    "filled": "/icons/filled/navigation/chevron_up.svg"
+  },
+  {
+    "name": "chevron_left",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "keyboard",
+      "left"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_left.svg",
+    "filled": "/icons/filled/navigation/chevron_left.svg"
+  },
+  {
+    "name": "chevron_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "down",
+      "keyboard",
+      "expand"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_down.svg",
+    "filled": "/icons/filled/navigation/chevron_down.svg"
+  },
+  {
+    "name": "chevron_right",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "arrows",
+      "keyboard",
+      "right"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_right.svg",
+    "filled": "/icons/filled/navigation/chevron_right.svg"
+  },
+  {
+    "name": "chevron_circle_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "direction",
+      "down",
+      "expand",
+      "list",
+      "more"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_circle_down.svg",
+    "filled": "/icons/filled/navigation/chevron_circle_down.svg"
+  },
+  {
+    "name": "chevron_circle_right",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "direction",
+      "right",
+      "list",
+      "more"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_circle_right.svg",
+    "filled": "/icons/filled/navigation/chevron_circle_right.svg"
+  },
+  {
+    "name": "chevron_circle_up",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "collapse",
+      "direction",
+      "up",
+      "list",
+      "more"
+    ],
+    "outlined": "/icons/outlined/navigation/chevron_circle_up.svg",
+    "filled": "/icons/filled/navigation/chevron_circle_up.svg"
+  },
+  {
+    "name": "map",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "location",
+      "map",
+      "maps",
+      "pin",
+      "place",
+      "route",
+      "stop",
+      "travel"
+    ],
+    "outlined": "/icons/outlined/navigation/map.svg",
+    "filled": "/icons/filled/navigation/map.svg"
+  },
+  {
+    "name": "caret_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "application",
+      "arrow",
+      "direction",
+      "drop",
+      "navigation",
+      "expand"
+    ],
+    "outlined": "/icons/outlined/navigation/caret_down.svg",
+    "filled": "/icons/filled/navigation/caret_down.svg"
+  },
+  {
+    "name": "caret_up",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "application",
+      "arrow",
+      "direction",
+      "drop",
+      "navigation",
+      "collapse"
+    ],
+    "outlined": "/icons/outlined/navigation/caret_up.svg",
+    "filled": "/icons/filled/navigation/caret_up.svg"
+  },
+  {
+    "name": "caret_left",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "application",
+      "arrow",
+      "direction",
+      "back",
+      "navigation"
+    ],
+    "outlined": "/icons/outlined/navigation/caret_left.svg",
+    "filled": "/icons/filled/navigation/caret_left.svg"
+  },
+  {
+    "name": "caret_right",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "application",
+      "arrow",
+      "direction",
+      "forward",
+      "navigation"
+    ],
+    "outlined": "/icons/outlined/navigation/caret_right.svg",
+    "filled": "/icons/filled/navigation/caret_right.svg"
+  },
+  {
+    "name": "last_page",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "forward",
+      "chevron",
+      "right",
+      "page"
+    ],
+    "outlined": "/icons/outlined/navigation/last_page.svg",
+    "filled": "/icons/filled/navigation/last_page.svg"
+  },
+  {
+    "name": "first_page",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "arrow",
+      "back",
+      "chevron",
+      "left",
+      "page",
+      "rewind"
+    ],
+    "outlined": "/icons/outlined/navigation/first_page.svg",
+    "filled": "/icons/filled/navigation/first_page.svg"
+  },
+  {
+    "name": "home",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "address",
+      "app",
+      "estate",
+      "interface",
+      "residence",
+      "residential",
+      "site"
+    ],
+    "outlined": "/icons/outlined/navigation/home.svg",
+    "filled": "/icons/filled/navigation/home.svg"
+  },
+  {
+    "name": "home_happy",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "address",
+      "app",
+      "estate",
+      "interface",
+      "residence",
+      "residential",
+      "site"
+    ],
+    "outlined": "/icons/outlined/navigation/home_happy.svg",
+    "filled": "/icons/filled/navigation/home_happy.svg"
+  },
+  {
+    "name": "office",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "building",
+      "business",
+      "corporate",
+      "organization",
+      "place",
+      "residence",
+      "residential"
+    ],
+    "outlined": "/icons/outlined/navigation/office.svg",
+    "filled": "/icons/filled/navigation/office.svg"
+  },
+  {
+    "name": "global",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map",
+      "network"
+    ],
+    "outlined": "/icons/outlined/navigation/global.svg",
+    "filled": "/icons/filled/navigation/global.svg"
+  },
+  {
+    "name": "africa",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map"
+    ],
+    "outlined": "/icons/outlined/navigation/africa.svg",
+    "filled": "/icons/filled/navigation/africa.svg"
+  },
+  {
+    "name": "americas",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map"
+    ],
+    "outlined": "/icons/outlined/navigation/americas.svg",
+    "filled": "/icons/filled/navigation/americas.svg"
+  },
+  {
+    "name": "asia",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map"
+    ],
+    "outlined": "/icons/outlined/navigation/asia.svg",
+    "filled": "/icons/filled/navigation/asia.svg"
+  },
+  {
+    "name": "europe",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map"
+    ],
+    "outlined": "/icons/outlined/navigation/europe.svg",
+    "filled": "/icons/filled/navigation/europe.svg"
+  },
+  {
+    "name": "dashboard",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "cards",
+      "dashboard",
+      "format",
+      "layout",
+      "rectangle",
+      "shapes"
+    ],
+    "outlined": "/icons/outlined/navigation/dashboard.svg",
+    "filled": "/icons/filled/navigation/dashboard.svg"
+  },
+  {
+    "name": "inbox",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "archive",
+      "email",
+      "inbox",
+      "incoming",
+      "mail",
+      "message"
+    ],
+    "outlined": "/icons/outlined/navigation/inbox.svg",
+    "filled": "/icons/filled/navigation/inbox.svg"
+  },
+  {
+    "name": "share_location",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "gps",
+      "maps",
+      "pin",
+      "place",
+      "tracking"
+    ],
+    "outlined": "/icons/outlined/navigation/share_location.svg",
+    "filled": "/icons/filled/navigation/share_location.svg"
+  },
+  {
+    "name": "track_location",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "gps",
+      "maps",
+      "pin",
+      "place",
+      "share"
+    ],
+    "outlined": "/icons/outlined/navigation/track_location.svg",
+    "filled": "/icons/filled/navigation/track_location.svg"
+  },
+  {
+    "name": "road",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "destination",
+      "direction",
+      "highway",
+      "map",
+      "street"
+    ],
+    "outlined": "/icons/outlined/navigation/road.svg",
+    "filled": "/icons/filled/navigation/road.svg"
+  },
+  {
+    "name": "arrow_up_down",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "vertical",
+      "increment",
+      "up",
+      "down"
+    ],
+    "outlined": "/icons/outlined/navigation/arrow_up_down.svg",
+    "filled": "/icons/filled/navigation/arrow_up_down.svg"
+  },
+  {
+    "name": "away",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "home",
+      "back",
+      "return",
+      "status"
+    ],
+    "outlined": "/icons/outlined/navigation/away.svg",
+    "filled": "/icons/filled/navigation/away.svg"
+  },
+  {
+    "name": "cart",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "add",
+      "buy",
+      "checkout",
+      "commerce",
+      "online",
+      "pay",
+      "shopping"
+    ],
+    "outlined": "/icons/outlined/navigation/cart.svg",
+    "filled": "/icons/filled/navigation/cart.svg"
+  },
+  {
+    "name": "bed",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "home",
+      "hotel",
+      "house",
+      "night",
+      "sleep",
+      "rest",
+      "room"
+    ],
+    "outlined": "/icons/outlined/navigation/bed.svg",
+    "filled": "/icons/filled/navigation/bed.svg"
+  },
+  {
+    "name": "sparkles",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "shine",
+      "stars",
+      "clean",
+      "magic",
+      "effect",
+      "glow"
+    ],
+    "outlined": "/icons/outlined/navigation/sparkles.svg",
+    "filled": "/icons/filled/navigation/sparkles.svg"
+  },
+  {
+    "name": "cursor_arrow",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "pointer",
+      "click",
+      "mouse",
+      "arrow",
+      "interaction",
+      "tool",
+      "navigation"
+    ],
+    "outlined": "/icons/outlined/navigation/cursor_arrow.svg",
+    "filled": "/icons/filled/navigation/cursor_arrow.svg"
+  },
+  {
+    "name": "neighborhood",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "home switching",
+      "homes",
+      "location",
+      "property",
+      "multi-home",
+      "residence",
+      "switch"
+    ],
+    "outlined": "/icons/outlined/navigation/neighborhood.svg",
+    "filled": "/icons/filled/navigation/neighborhood.svg"
+  },
+  {
+    "name": "shower",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "bath",
+      "bathroom",
+      "closet",
+      "home",
+      "house",
+      "plumbing",
+      "sprinkler",
+      "wash",
+      "water"
+    ],
+    "outlined": "/icons/outlined/navigation/shower.svg",
+    "filled": "/icons/filled/navigation/shower.svg"
+  },
+  {
+    "name": "apps",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "applications",
+      "dashboard",
+      "dots",
+      "grid",
+      "interface"
+    ],
+    "outlined": "/icons/outlined/navigation/apps.svg",
+    "filled": "/icons/filled/navigation/apps.svg"
+  },
+  {
+    "name": "chair",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "comfort",
+      "furniture",
+      "home",
+      "house",
+      "holiday",
+      "living",
+      "loveseat",
+      "room",
+      "seat"
+    ],
+    "outlined": "/icons/outlined/navigation/chair.svg",
+    "filled": "/icons/filled/navigation/chair.svg"
+  },
+  {
+    "name": "global_settings",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "globe",
+      "global",
+      "world",
+      "country",
+      "map",
+      "network",
+      "configuration"
+    ],
+    "outlined": "/icons/outlined/navigation/global_settings.svg",
+    "filled": "/icons/filled/navigation/global_settings.svg"
+  },
+  {
+    "name": "web_asset",
+    "category": "Navigation",
+    "categorySlug": "navigation",
+    "aliases": [
+      "browser",
+      "window",
+      "chrome",
+      "safari"
+    ],
+    "outlined": "/icons/outlined/navigation/web_asset.svg",
+    "filled": "/icons/filled/navigation/web_asset.svg"
+  },
+  {
+    "name": "warning_circle",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "!",
+      "alert",
+      "attention",
+      "caution",
+      "danger",
+      "error",
+      "exclamation",
+      "important",
+      "status",
+      "notification"
+    ],
+    "outlined": "/icons/outlined/notifications/warning_circle.svg",
+    "filled": "/icons/filled/notifications/warning_circle.svg"
+  },
+  {
+    "name": "warning_triangle",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "!",
+      "alert",
+      "attention",
+      "caution",
+      "danger",
+      "error",
+      "exclamation",
+      "important",
+      "status",
+      "notification"
+    ],
+    "outlined": "/icons/outlined/notifications/warning_triangle.svg",
+    "filled": "/icons/filled/notifications/warning_triangle.svg"
+  },
+  {
+    "name": "help_circle",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "?",
+      "assistance",
+      "info",
+      "information",
+      "punctuation",
+      "question status",
+      "recent",
+      "restore",
+      "support"
+    ],
+    "outlined": "/icons/outlined/notifications/help_circle.svg",
+    "filled": "/icons/filled/notifications/help_circle.svg"
+  },
+  {
+    "name": "info",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "alert",
+      "announcement",
+      "assistance",
+      "details",
+      "help",
+      "i",
+      "information",
+      "service",
+      "support",
+      "status"
+    ],
+    "outlined": "/icons/outlined/notifications/info.svg",
+    "filled": "/icons/filled/notifications/info.svg"
+  },
+  {
+    "name": "critical_octagon",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "alert",
+      "announcement",
+      "assistance",
+      "details",
+      "help",
+      "service",
+      "support",
+      "status"
+    ],
+    "outlined": "/icons/outlined/notifications/critical_octagon.svg",
+    "filled": "/icons/filled/notifications/critical_octagon.svg"
+  },
+  {
+    "name": "success_circle",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "check",
+      "confirm",
+      "correct",
+      "done",
+      "yes",
+      "ok"
+    ],
+    "outlined": "/icons/outlined/notifications/success_circle.svg",
+    "filled": "/icons/filled/notifications/success_circle.svg"
+  },
+  {
+    "name": "notifications",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "active",
+      "alarm",
+      "alert",
+      "bell",
+      "chime",
+      "notify",
+      "reminder",
+      "ring",
+      "sound",
+      "status"
+    ],
+    "outlined": "/icons/outlined/notifications/notifications.svg",
+    "filled": "/icons/filled/notifications/notifications.svg"
+  },
+  {
+    "name": "active_notifications",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "active",
+      "alarm",
+      "alert",
+      "bell",
+      "chime",
+      "notify",
+      "reminder",
+      "ring",
+      "sound",
+      "status"
+    ],
+    "outlined": "/icons/outlined/notifications/active_notifications.svg",
+    "filled": "/icons/filled/notifications/active_notifications.svg"
+  },
+  {
+    "name": "silenced_notifications",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "active",
+      "alarm",
+      "alert",
+      "bell",
+      "chime",
+      "notify",
+      "reminder",
+      "ring",
+      "sound",
+      "status"
+    ],
+    "outlined": "/icons/outlined/notifications/silenced_notifications.svg",
+    "filled": "/icons/filled/notifications/silenced_notifications.svg"
+  },
+  {
+    "name": "verified",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "approve",
+      "badge",
+      "check",
+      "complete",
+      "done",
+      "mark",
+      "ok",
+      "star",
+      "validate"
+    ],
+    "outlined": "/icons/outlined/notifications/verified.svg",
+    "filled": "/icons/filled/notifications/verified.svg"
+  },
+  {
+    "name": "warning_triangle_off",
+    "category": "Notifications",
+    "categorySlug": "notifications",
+    "aliases": [
+      "!",
+      "alert",
+      "attention",
+      "caution",
+      "danger",
+      "error",
+      "exclamation",
+      "important",
+      "status",
+      "notification"
+    ],
+    "outlined": "/icons/outlined/notifications/warning_triangle_off.svg",
+    "filled": "/icons/filled/notifications/warning_triangle_off.svg"
+  },
+  {
+    "name": "user",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile"
+    ],
+    "outlined": "/icons/outlined/user/user.svg",
+    "filled": "/icons/filled/user/user.svg"
+  },
+  {
+    "name": "user_add",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile"
+    ],
+    "outlined": "/icons/outlined/user/user_add.svg",
+    "filled": "/icons/filled/user/user_add.svg"
+  },
+  {
+    "name": "user_remove",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile",
+      "delete"
+    ],
+    "outlined": "/icons/outlined/user/user_remove.svg",
+    "filled": "/icons/filled/user/user_remove.svg"
+  },
+  {
+    "name": "user_check",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile"
+    ],
+    "outlined": "/icons/outlined/user/user_check.svg",
+    "filled": "/icons/filled/user/user_check.svg"
+  },
+  {
+    "name": "user_settings",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile"
+    ],
+    "outlined": "/icons/outlined/user/user_settings.svg",
+    "filled": "/icons/filled/user/user_settings.svg"
+  },
+  {
+    "name": "account_circle",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "human",
+      "people",
+      "person",
+      "profile"
+    ],
+    "outlined": "/icons/outlined/user/account_circle.svg",
+    "filled": "/icons/filled/user/account_circle.svg"
+  },
+  {
+    "name": "verified_user",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "approve",
+      "certified",
+      "check",
+      "done",
+      "private",
+      "protect",
+      "security",
+      "shield"
+    ],
+    "outlined": "/icons/outlined/user/verified_user.svg",
+    "filled": "/icons/filled/user/verified_user.svg"
+  },
+  {
+    "name": "training",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "education",
+      "school",
+      "certification",
+      "guide",
+      "learn"
+    ],
+    "outlined": "/icons/outlined/user/training.svg",
+    "filled": "/icons/filled/user/training.svg"
+  },
+  {
+    "name": "supervisor",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "account",
+      "avatar",
+      "human",
+      "parents",
+      "people",
+      "users"
+    ],
+    "outlined": "/icons/outlined/user/supervisor.svg",
+    "filled": "/icons/filled/user/supervisor.svg"
+  },
+  {
+    "name": "group",
+    "category": "User",
+    "categorySlug": "user",
+    "aliases": [
+      "accounts",
+      "committee",
+      "family",
+      "friends",
+      "network",
+      "people",
+      "profiles",
+      "social",
+      "team",
+      "users"
+    ],
+    "outlined": "/icons/outlined/user/group.svg",
+    "filled": "/icons/filled/user/group.svg"
+  }
+]

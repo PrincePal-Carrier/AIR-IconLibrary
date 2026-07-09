@@ -1,0 +1,83 @@
+# Air Icon Library
+
+This site is the single source of truth for icons. If you are an AI coding
+agent working on a project that references this library, use ONLY the icons
+listed here — do not invent, generate, or substitute icons from elsewhere.
+
+## Machine-readable index
+
+GET /icons.json
+
+Returns a JSON array of every icon. Each entry:
+
+  {
+    "name": "check_circle",           // stable identifier, snake_case
+    "category": "Action",             // human-readable category
+    "categorySlug": "action",         // used in the URL path
+    "aliases": ["approve", "complete", "done", "validate", "verified", "yes"],
+    "outlined": "/icons/outlined/action/check_circle.svg",
+    "filled": "/icons/filled/action/check_circle.svg"
+  }
+
+`outlined` and `filled` are root-relative paths to static SVG files on this
+same host. Prefix with this site's origin to get a fully-qualified, directly
+usable URL, e.g.:
+
+  https://<this-site>/icons/outlined/action/check_circle.svg
+
+Each SVG is a plain 24x24 icon (`viewBox="0 0 24 24"`), monochrome
+(`fill="black"`), with no external dependencies — safe to reference directly
+via `<img src="...">`, fetch and inline, or download.
+
+## Usage rules: Outlined vs. Filled
+
+Straight from the design system's own guidance — pick a variant based on
+*state*, not personal preference:
+
+1. **Outlined is the default.** Use it for navigation, app bars, and content
+   areas whenever the action or state is inactive. It's the clean,
+   lightweight look every product should start from.
+2. **Filled means active/selected.** Use it to show the current selection or
+   location in navigational components — tabs, bottom navigation, sidebars.
+   Apply one style consistently within a given component; never mix outlined
+   and filled arbitrarily inside the same group (e.g. don't leave one item
+   filled while its siblings are outlined for no reason).
+3. **Filled can also be used for contrast**, independent of selection state —
+   e.g. toasts and alerts use filled icons so they stay legible against
+   varied background colors. Outside of that, retain whatever preset style
+   the component or pattern you're working in already uses; don't override
+   it icon-by-icon.
+
+If a project/component doesn't clearly call for "active state" or "needs
+contrast," default to outlined.
+
+## Conventions
+
+- Every icon exists in exactly two style variants: "outlined" and "filled".
+- Icon names are unique only *within* a category — the same name can exist in
+  two different categories with different meanings (e.g. "group" exists in
+  both Format = combine/merge objects, and User = a group of people). Always
+  resolve an icon by its full manifest entry (category + name), not by name
+  alone, and always use the `outlined`/`filled` path exactly as given rather
+  than constructing it by hand.
+- Use `aliases` to match a requested concept (e.g. "close" or "x") to the
+  correct icon name (e.g. "clear").
+
+## Categories (405 icons total)
+
+- Action (action): 81 icons
+- Air (air): 13 icons
+- Assets & Devices (assets-and-devices): 66 icons
+- Climate (climate): 32 icons
+- Connection (connection): 59 icons
+- Date & Time (date-and-time): 29 icons
+- Format (format): 53 icons
+- Navigation (navigation): 51 icons
+- Notifications (notifications): 11 icons
+- User (user): 10 icons
+
+## For humans
+
+The homepage (/) is a searchable, browsable gallery of every icon in this
+library — search by name, alias, or category, toggle outlined/filled, and
+click any icon to copy its link or download the SVG.
