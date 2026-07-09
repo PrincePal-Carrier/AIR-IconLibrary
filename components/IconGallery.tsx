@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   categories,
   iconLabel,
@@ -22,6 +22,20 @@ export default function IconGallery({ icons }: { icons: IconEntry[] }) {
     });
   }, [icons, query, category]);
 
+  useEffect(() => {
+    if (!selected) return;
+    function handlePointerDown(e: MouseEvent) {
+      const target = e.target as HTMLElement;
+      // let clicks inside the drawer, or on another icon tile
+      // (which instantly swaps the selection), pass through untouched
+      if (target.closest("[data-icon-drawer]")) return;
+      if (target.closest("[data-icon-tile]")) return;
+      setSelected(null);
+    }
+    document.addEventListener("mousedown", handlePointerDown);
+    return () => document.removeEventListener("mousedown", handlePointerDown);
+  }, [selected]);
+
   return (
     <div className="flex flex-1 flex-col">
       <header className="sticky top-0 z-10 border-b border-zinc-200 bg-white/90 backdrop-blur dark:border-zinc-800 dark:bg-black/90">
@@ -31,7 +45,7 @@ export default function IconGallery({ icons }: { icons: IconEntry[] }) {
               Air Icon Library
             </h1>
             <p className="text-sm text-zinc-500 dark:text-zinc-400">
-              {icons.length} icons · click any icon for its link and download
+              {icons.length} icons · click any icon to copy its link or SVG
             </p>
           </div>
           <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
@@ -73,7 +87,11 @@ export default function IconGallery({ icons }: { icons: IconEntry[] }) {
         </div>
       </header>
 
-      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6">
+      <main
+        className={`mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 ${
+          selected ? "pb-28" : ""
+        }`}
+      >
         <details className="mb-6 rounded-lg border border-zinc-200 bg-zinc-50 px-4 py-3 text-sm dark:border-zinc-800 dark:bg-zinc-900">
           <summary className="cursor-pointer font-medium text-zinc-700 dark:text-zinc-300">
             Usage guidelines: Outlined vs. Filled
@@ -115,6 +133,7 @@ export default function IconGallery({ icons }: { icons: IconEntry[] }) {
                 <button
                   onClick={() => setSelected(icon)}
                   title={iconLabel(icon.name)}
+                  data-icon-tile
                   className="flex w-full flex-col items-center gap-2 rounded-lg border border-transparent p-3 text-center transition-colors hover:border-zinc-300 hover:bg-zinc-50 dark:hover:border-zinc-700 dark:hover:bg-zinc-900"
                 >
                   <img
@@ -169,22 +188,61 @@ function IconDetail({
     });
   }
 
+  async function copySvg() {
+    const res = await fetch(path);
+    const svgText = await res.text();
+    copy(svgText, "svg");
+  }
+
   return (
     <div
-      className="fixed inset-0 z-20 flex items-center justify-center bg-black/40 p-4"
-      onClick={onClose}
+      data-icon-drawer
+      className="animate-slide-up fixed inset-x-0 bottom-0 z-20 border-t border-zinc-200 bg-white shadow-[0_-4px_20px_rgba(0,0,0,0.08)] dark:border-zinc-800 dark:bg-zinc-900"
     >
-      <div
-        className="w-full max-w-sm rounded-xl bg-white p-5 shadow-xl dark:bg-zinc-900"
-        onClick={(e) => e.stopPropagation()}
-      >
-        <div className="flex items-start justify-between">
-          <div>
-            <h2 className="text-base font-semibold">{iconLabel(icon.name)}</h2>
-            <p className="text-xs text-zinc-500 dark:text-zinc-400">
+      <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center gap-x-4 gap-y-3 px-4 py-3 sm:px-6">
+        <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-zinc-50 dark:bg-zinc-800">
+          <img src={path} alt={icon.name} width={26} height={26} className="dark:invert" />
+        </div>
+
+        <div className="flex min-w-0 items-center gap-3">
+          <div className="min-w-0">
+            <h2 className="truncate text-sm font-semibold">
+              {iconLabel(icon.name)}
+            </h2>
+            <p className="truncate text-xs text-zinc-500 dark:text-zinc-400">
               {icon.category}
             </p>
           </div>
+          <div className="flex shrink-0 overflow-hidden rounded-lg border border-zinc-300 text-xs dark:border-zinc-700">
+            {(["outlined", "filled"] as const).map((v) => (
+              <button
+                key={v}
+                onClick={() => onVariantChange(v)}
+                className={`px-2.5 py-1.5 capitalize transition-colors ${
+                  variant === v
+                    ? "bg-zinc-900 text-white dark:bg-zinc-100 dark:text-black"
+                    : "bg-white text-zinc-600 hover:bg-zinc-100 dark:bg-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                }`}
+              >
+                {v}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="ml-auto flex shrink-0 items-center gap-2">
+          <button
+            onClick={() => copy(absoluteUrl, "link")}
+            className="rounded-lg bg-zinc-900 px-3 py-2 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-100 dark:text-black dark:hover:bg-zinc-300"
+          >
+            {copied === "link" ? "Copied!" : "Copy icon link"}
+          </button>
+          <button
+            onClick={copySvg}
+            className="rounded-lg border border-zinc-300 px-3 py-2 text-sm font-medium transition-colors hover:bg-zinc-50 dark:border-zinc-700 dark:hover:bg-zinc-800"
+          >
+            {copied === "svg" ? "Copied!" : "Copy SVG"}
+          </button>
           <button
             onClick={onClose}
             className="rounded-md px-2 py-1 text-sm text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800"
@@ -192,48 +250,6 @@ function IconDetail({
           >
             ✕
           </button>
-        </div>
-
-        <div className="mt-4 flex items-center justify-center rounded-lg bg-zinc-50 py-8 dark:bg-zinc-800">
-          <img src={path} alt={icon.name} width={40} height={40} className="dark:invert" />
-        </div>
-
-        <div className="mt-4 flex overflow-hidden rounded-lg border border-zinc-300 text-xs dark:border-zinc-700">
-          {(["outlined", "filled"] as const).map((v) => (
-            <button
-              key={v}
-              onClick={() => onVariantChange(v)}
-              className={`flex-1 py-1.5 capitalize transition-colors ${
-                variant === v
-                  ? "bg-zinc-900 text-white dark:bg-zinc-100 dark:text-black"
-                  : "bg-white text-zinc-600 hover:bg-zinc-100 dark:bg-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800"
-              }`}
-            >
-              {v}
-            </button>
-          ))}
-        </div>
-
-        {icon.aliases.length > 0 && (
-          <p className="mt-3 text-xs text-zinc-500 dark:text-zinc-400">
-            {icon.aliases.join(", ")}
-          </p>
-        )}
-
-        <div className="mt-4 flex flex-col gap-2">
-          <button
-            onClick={() => copy(absoluteUrl, "link")}
-            className="rounded-lg bg-zinc-900 px-3 py-2 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-100 dark:text-black dark:hover:bg-zinc-300"
-          >
-            {copied === "link" ? "Copied!" : "Copy icon link"}
-          </button>
-          <a
-            href={path}
-            download={`${icon.name}-${variant}.svg`}
-            className="rounded-lg border border-zinc-300 px-3 py-2 text-center text-sm font-medium transition-colors hover:bg-zinc-50 dark:border-zinc-700 dark:hover:bg-zinc-800"
-          >
-            Download SVG
-          </a>
         </div>
       </div>
     </div>
